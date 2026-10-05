@@ -1,0 +1,274 @@
+# ===== 右键/其他菜单 (1) =====
+...configure	...配置
+...fetch results via API	...通过 API 获取结果
+...import existing archive (.zip)	...导入现有归档 (.zip)
+...load existing report (.json)	...加载现有报告 (.json)
+...run sandbox	...运行沙箱
+&1-byte integer	1 字节整数(&1)
+&2-byte integer	2 字节整数(&2)
+&4-byte integer	4 字节整数(&4)
+&8-byte integer	8 字节整数(&8)
+&Abort	中止(&A)
+&Add missing fields	添加缺失字段(&A)
+&Add type...	添加类型(&A)...
+&Analysis	分析(&A)
+&Analyze module	分析模块(&A)
+&Basic block tracing	基本块跟踪(&B)
+&Break on access	访问时中断(&B)
+&C-style (0 terminated)	C 风格(0 结尾)(&C)
+&Clear trace	清除跟踪(&C)
+&Close	关闭(&C)
+&Colors...	颜色(&C)...
+&Copy	复制(&C)
+&Create function...	创建函数(&C)...
+&Create or edit a function...	创建或编辑函数(&C)...
+&DBG file...	DBG 文件(&D)...
+&DOS style ($ terminated)	DOS 风格($ 结尾)(&D)
+&Data	数据(&D)
+&Debugger window	调试器窗口(&D)
+&Delete desktop...	删除桌面布局(&D)...
+&Delete function	删除函数(&D)
+&Delete type...	删除类型(&D)...
+&Delete watch	删除监视(&D)
+&Delphi (4 byte length)	Delphi(4 字节长度)(&D)
+&Deselect all	取消全选(&D)
+&Details...	详情(&D)...
+&Double float (64-bit)	双精度浮点 (64 位)(&D)
+&Edit function...	编辑函数(&E)...
+&Execute	执行(&E)
+&Exports	导出(&E)
+&External help	外部帮助(&E)
+&FLIRT signature file...	FLIRT 签名文件(&F)...
+&Field type	字段类型(&F)
+&Find	查找(&F)
+&Find breakpoint in list	在列表中查找断点(&F)
+&Find...	查找(&F)...
+&Font...	字体(&F)...
+&Function tracing	函数跟踪(&F)
+&Functions	函数(&F)
+&General...	常规(&G)...
+&Hide	隐藏(&H)
+&Immediate value...	立即数(&I)...
+&Imports	导入(&I)
+&Instruction tracing	指令跟踪(&I)
+&Jump to module base	跳到模块基址(&J)
+&Jump to operand	跳到操作数(&J)
+&Learn About Teams	了解 Teams(&L)
+&Load desktop...	加载桌面布局(&L)...
+&Load file	加载文件(&L)
+&Locals	局部变量(&L)
+&Long double (80-bit)	扩展精度浮点 (80 位)(&L)
+&Memory	内存(&M)
+&Module list	模块列表(&M)
+&Name representation...	名称表示(&N)...
+&Names	名称(&N)
+&New instance	新建实例(&N)
+&Next CLI	下一个 CLI(&N)
+&Open...	打开(&O)...
+&Output window	输出窗口(&O)
+&PDB file...	PDB 文件(&P)...
+&Pascal style (1 byte length)	Pascal 风格(1 字节长度)(&P)
+&Pause process	暂停进程(&P)
+&Previous CLI	上一个 CLI(&P)
+&Produce file	生成文件(&P)
+&Quick run plugins	快速运行插件(&Q)
+&Quick start	快速启动(&Q)
+&Refresh	刷新(&R)
+&Reload the input file	重新加载输入文件(&R)
+&Rename register...	重命名寄存器(&R)...
+&Reset desktop	重置桌面布局(&R)
+&Resume thread	恢复线程(&R)
+&Save	保存(&S)
+&Save desktop...	保存桌面布局(&S)...
+&Secondary server	辅助服务器(&S)
+&Segments	段(&S)
+&Select all	全选(&S)
+&Sequence of bytes...	字节序列(&S)...
+&Set function end	设置函数结尾(&S)
+&Shortcuts...	快捷键(&S)...
+&Signed	有符号(&S)
+&Stack trace	栈回溯(&S)
+&Stack view	栈视图(&S)
+&String	字符串(&S)
+&Suspend thread	挂起线程(&S)
+&TDS file...	TDS 文件(&T)...
+&Text...	文本(&T)...
+&Thread list	线程列表(&T)
+&Toggle leading zeroes	切换前导零(&T)
+&Unhide	取消隐藏(&U)
+&Unicode	Unicode(&U)
+&Unsigned	无符号(&U)
+&Watch view	监视视图(&W)
+&Wide pascal (2 byte length)	宽 Pascal(2 字节长度)(&W)
+...     (unassigned)	...(未分配)
+Add &read/write trace	添加读/写跟踪(&R)
+Add &write trace	添加写跟踪(&W)
+Add Filter	添加过滤器
+Add argument	添加参数
+Add breakpoint	添加断点
+Add e&xecution trace	添加执行跟踪(&X)
+Add encoding...	添加编码(&A)...
+Add exclusion...	添加排除(&A)...
+Add global memory note	添加全局内存备注
+Add local memory note	添加局部内存备注
+Add local memory note for selection	为选区添加局部内存备注
+Add node by address	按地址添加节点
+Add node by name	按名称添加节点
+Add to latest path	添加到最新路径
+Add to vault	添加到 Vault
+Add waypoint...	添加路径点(&A)...
+Add xrefs from node	添加节点的来向交叉引用
+Add xrefs to node	添加节点的去向交叉引用
+Add xrefs to/from node	添加节点去向/来向交叉引用
+Add xrefs...	添加交叉引用(&A)...
+Additional &binary file...	附加二进制文件(&B)...
+Additional display visible	显示附加显示
+Address	地址
+Addresses with dereferencing	带解引用的地址
+Addresses with names	带名称的地址
+Addresses with text	带文本的地址
+Align	对齐
+Always	总是
+Analysis indicator	分析指示器
+Append function &tail...	追加函数尾部(&T)...
+Apply all differences until this step (pick local)	应用截至此步骤的全部差异(采用本地)
+Apply all differences until this step (pick remote)	应用截至此步骤的全部差异(采用远程)
+Apply all non-conflicting differences in this step	应用此步骤全部无冲突差异
+Apply selection	应用选区
+As &HTML	为 HTML(&H)
+As &deeplink	为深链接(&D)
+As &text	为文本(&T)
+Assembler d&irectives...	汇编指令(&I)...
+Auto	自动
+Auto resolve (if no conflicts)...	自动解决(无冲突时)(&A)...
+Auto resolve, prefer local...	自动解决,优先本地(&A)...
+Auto resolve, prefer remote...	自动解决,优先远程(&A)...
+Auto-scroll	自动滚动
+Back complete	向后补全
+Back to previous view	返回上一视图
+C&lear	清除(&L)
+C&lear mark...	清除标记(&L)...
+C&ontinue backwards	反向继续(&O)
+C++ SDK	C++ SDK
+C-like format	C 风格格式
+Cancel changes	取消更改
+Center in window...	在窗口中居中(&C)...
+Change calling convention...	修改调用约定(&C)...
+Change si&gn	改变符号(&G)
+Change stack &pointer...	修改栈指针(&P)...
+Change tab size...	修改制表符宽度(&T)...
+Change trace description	修改跟踪描述
+Checkout for copy...	检出以便复制(&C)...
+Checkout for delete	检出以便删除
+Checkout for edit	检出以便编辑
+Checkout for move/rename...	检出以便移动/重命名(&C)...
+Circle layout	环形布局
+Clear	清除
+Clear Search	清除搜索
+Clear overlay	清除覆盖层
+Clear...	清除(&C)...
+Clone	克隆
+Close window	关闭窗口
+Collapse children	折叠子项
+Collapse parents	折叠父项
+Collapse selected folders	折叠所选文件夹
+Columns...	列(&C)...
+Commit...	提交(&C)...
+Comp&lete	补全(&L)
+Compi&ler...	编译器(&L)...
+Configure emulator...	配置模拟器(&C)...
+Configure...	配置(&C)...
+Convert IDB...	转换 IDB(&C)...
+Copy address to command line	复制地址到命令行
+Copy all	复制全部
+Copy cell	复制单元格
+Copy content	复制内容
+Copy line	复制行
+Copy location	复制位置
+Copy row	复制行
+Copy size to command line	复制大小到命令行
+Copy to CLI	复制到 CLI
+Copy value	复制值
+Copy with dependencies	连带依赖复制
+Cr&oss references	交叉引用(&O)
+Create &ASM file...	生成 ASM 文件(&A)...
+Create &C header file...	生成 C 头文件(&C)...
+Create &DIF file...	生成 DIF 文件(&D)...
+Create &EXE file...	生成 EXE 文件(&E)...
+Create &INC file...	生成 INC 文件(&I)...
+Create &LST file...	生成 LST 文件(&L)...
+Create &MAP file...	生成 MAP 文件(&M)...
+Create &flow chart GDL...	生成流程图 GDL(&F)...
+Create call &graph GDL...	生成调用图 GDL(&G)...
+Create folder...	创建文件夹(&C)...
+Create new path	创建新路径
+Cut	剪切
+CyberChef	CyberChef
+Cycle layout mode	循环切换布局模式
+D&ump database to IDC file...	把数据库导出为 IDC 文件(&U)...
+De&lete type member	删除类型成员(&L)
+De&mangled names...	还原修饰名(&M)...
+Decrement value	递减值
+Delete function metadata	删除函数元数据
+Delete selected nodes	删除所选节点
+Diff against previous revision	与上一修订比较
+Diff against the local file	与本地文件比较
+Diff against...	与...比较(&D)...
+Digraph layout	有向图布局
+Disable breakpoint	禁用断点
+Disable undo	禁用撤销
+Domain API	Domain API
+Dump &typeinfo to IDC file...	把类型信息导出为 IDC 文件(&T)...
+Dump history	导出历史
+Duplicate	重复
+Duplicate stru&ct type	复制结构体类型(&C)
+E&xit	退出(&E)
+E&xport data	导出数据(&X)
+Ed&it enum member...	编辑枚举成员(&I)...
+Edit &type...	编辑类型(&T)...
+Edit breakpoint...	编辑断点(&E)...
+Edit exceptions	编辑异常
+Edit location...	编辑位置(&E)...
+Edit worklist...	编辑工作列表(&E)...
+Edit...	编辑(&E)...
+Empt&y navigation stack	清空导航栈(&Y)
+Enable breakpoint	启用断点
+Enter &comment...	输入注释(&C)...
+Enu&m member...	枚举成员(&M)...
+Exclude from path	从路径排除
+Expand children	展开子项
+Expand current node	展开当前节点
+Expand node	展开节点
+Expand parents	展开父项
+Expand selected folders	展开所选文件夹
+Export headless...	无界面导出(&E)...
+Export to &HTML...	导出为 HTML(&H)...
+Export to file...	导出到文件(&E)...
+Export to header file	导出到头文件
+Export trace to text file	把跟踪导出为文本文件
+Feature Flags...	特性开关(&F)...
+File history	文件历史
+Find &next	查找下一个(&N)
+Find in vault...	在 Vault 中查找(&F)...
+Find path	查找路径
+Fit whole program	缩放至整个程序
+Focus other widget	聚焦其他窗口部件
+Follow in disassembly	在反汇编中跟随
+Follow in hex dump	在十六进制转储中跟随
+Format options...	格式选项(&F)...
+From external Mach-O...	从外部 Mach-O(&F)...
+Fuzzy matching	模糊匹配
+Get Assist...	获取 Assist(&G)...
+Get Malware Analysis...	获取 Malware Analysis(&G)...
+Get Private Lumina...	获取私有 Lumina(&G)...
+Get revision...	获取修订(&G)...
+Get the latest revision	获取最新修订
+Group nodes	组合节点
+Hex display	十六进制显示
+Hide all	全部隐藏
+Hide all groups	隐藏所有分组
+Hide column	隐藏列
+Hide function	隐藏函数
+Hide group	隐藏分组
+Hide node	隐藏节点
+ID&S/IDT file...	IDS/IDT 文件(&S)...

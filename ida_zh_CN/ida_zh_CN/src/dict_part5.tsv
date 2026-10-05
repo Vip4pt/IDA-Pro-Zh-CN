@@ -1,0 +1,71 @@
+# ===== 反编译器/调试器等补充 (来源: captured.tsv) =====
+&Batch decompile...	批量反编译(&B)...
+&Force call type	强制调用类型(&F)
+&Jump to local type...	跳到本地类型(&J)...
+&Reset decompiler information...	重置反编译器信息(&R)...
+&Toggle skippable instructions...	切换可跳过指令(&T)...
+Add &cast...	添加强制转换(&C)...
+Add &variadic argument	添加可变参数(&V)
+Add a breakpoint to the current address	在当前地址添加断点
+Add a variable to watch	添加变量到监视
+Add empty line	添加空行
+Add pseudocode comments...	添加伪代码注释(&P)...
+Apply all in this step (keep changes in 'local' for conflicts)	应用此步骤全部(冲突保留本地)
+Apply all in this step (pick changes in 'remote' for conflicts)	应用此步骤全部(冲突采用远程)
+Attempt to simplify Mixed Boolean Arithmetic-obfuscated expressions using gooMBA	使用 gooMBA 尝试化简混合布尔算术混淆表达式
+Automation of COM analysis	COM 分析自动化
+C++ exception display settings	C++ 异常显示设置
+Collapse declarations	折叠声明
+Collapse else-branch	折叠 else 分支
+Collapse item	折叠项
+Collapse then-branch	折叠 then 分支
+Search for the next item	搜索下一项
+Select union field...	选择联合体字段(&S)...
+Send &database...	发送数据库(&D)...
+Set &call type...	设置调用类型(&C)...
+Set type information for an item or current function	为条目或当前函数设置类型信息
+Set type...	设置类型(&S)...
+Setup graph colors	图形颜色设置
+Setup graph options	图形选项设置
+Show C++ wind states	显示 C++ 异常状态
+Show addresses	显示地址
+Show all call decompilations...	显示全部调用反编译(&S)...
+Show all xref decompilations...	显示全部交叉引用反编译(&S)...
+Show number origins	显示数字来源
+Show proximity browser	显示邻近浏览器
+Show unstructured C++ states	显示非结构化 C++ 状态
+Show value numbers	显示值编号
+Specify switch idiom...	指定 switch 惯用法(&S)...
+Split expression	拆分表达式
+Split memory access	拆分内存访问
+Split variable	拆分变量
+Start a new process in the debugger or continue a debugged process	在调试器中启动新进程或继续调试当前进程
+Stock comments	预置注释
+Structural analysis...	结构化分析(&S)...
+Structure offse&t	结构体偏移(&T)
+Switch from disassembly to source view	从反汇编切换到源码视图
+Switch to graph disassembly view	切换到图形反汇编视图
+Switch to text diassembly view	切换到文本反汇编视图
+Synchronization	同步
+Terminate the debugged process	终止被调试进程
+Toggle SSE intrinsics	切换 SSE 内建函数
+Toggle display casts	切换强制转换显示
+Toggle function tracing	切换函数跟踪
+Toggle hex/dec	切换十六进制/十进制
+Toggle instruction tracing	切换指令跟踪
+Uncollapse declarations	展开声明
+Uncollapse else-branch	展开 else 分支
+Uncollapse item	展开项
+Uncollapse then-branch	展开 then 分支
+Unhide the current function, segment, structure, enumeration or hidden range	取消隐藏当前函数、段、结构体、枚举或隐藏范围
+Universal PE unpacker	通用 PE 脱壳器
+Universal Unpacker Manual Reconstruct	通用脱壳器手工重建
+Unmap variable(s)...	取消变量映射(&U)...
+Unmark Swift string	取消 Swift 字符串标记
+Unmark as decompiled	取消反编译标记
+Unsplit expression	合并表达式
+Unsplit memory access	合并内存访问
+Unsplit variable	合并变量
+Version	版本
+Zoom	缩放
+detect and parse golang metadata	检测并解析 Go 元数据

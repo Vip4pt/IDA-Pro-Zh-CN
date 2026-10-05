@@ -1,0 +1,193 @@
+&Add breakpoint
+&Add watch
+&Assemble...
+&Assist
+&Attach
+&Attach to process...
+&Begin selection
+&Binary
+&Breakpoint list
+&Breakpoints
+&Calculator...
+&Code
+&Color instruction...
+&Commit
+&Commits
+&Connect
+&Create Repository
+&Create segment...
+&Debugger windows
+&Decimal
+&Delete breakpoint
+&Delete segment...
+&Disassembly
+&Disconnect
+&Dyld Shared Cache (DSC) index
+&Edit
+&Edit segment...
+&Error operand
+&File
+&Floating point
+&Force zero offset field
+&Graphs
+&Help
+&Hex dump
+&Hexadecimal
+&History
+&Jump
+&KernelCache (KC) index
+&License manager...
+&Local Changes
+&Local files
+&Manage Repositories
+&Manual instruction...
+&Migrate to Git Repository
+&Move current segment...
+&Number
+&Number (default)
+&Offset
+&Open subviews
+&Operand type
+&Options
+&Patch program
+&Push
+&Quick debug view
+&Quick view
+&Rebase program...
+&Reconfigure Repository
+&Refresh memory
+&Repository Settings
+&Revert Local Changes
+&Run
+&Segment
+&Setup hidden items...
+&Sites
+&Start process
+&Terminate process
+&Toolbars
+&Undefine
+&Users
+&Vault files
+&View
+&Watch list
+&Watches
+&Windows
+&Worklists
+A&PI Documentation
+A&pply patches to input file...
+About program...
+Address details
+All error operands
+All void operands
+Arra&y...
+Bit&wise negate
+Bookmar&ks
+C&lone Repository
+Cha&racter
+Change &byte...
+Change &word...
+Change se&gment register value...
+Change segment &translation...
+Check for free update...
+Co&mments
+Copy field info to &pointers
+Create &alignment directive...
+Create struct from &selection
+Database snapshot &manager...
+Deb&ugger options...
+Decrease Font Size
+Detac&h from process
+Enter &anterior lines...
+Enter &posterior lines...
+Enter &repeatable comment...
+Exte&nsions
+Find register definition
+Find register use
+Focus command line
+Full screen
+Function calls
+Get IDA MCP...
+Get Teams...
+Graph O&verview
+H&ide all
+Help
+How to buy IDA
+IDA &MCP
+IDA &support forum
+IDA home page
+Increase Font Size
+Learn about IDA MCP...
+Learn about Teams...
+Local &types
+Lumi&na
+Mal&ware Analysis
+Man&ual...
+Manage...
+Misc. tools
+Navigation history
+Next &code
+Next &data
+Next &explored
+Next &unexplored
+Next &void
+Next immediate va&lue
+Next sequence of &bytes
+Next te&xt
+Not &function
+Note&pad
+Octa&l
+Online help
+Open source &file...
+Ot&her
+P&ull
+Patched bytes
+Plu&gins
+Print internal &flags
+Print register value
+Print se&gment registers
+Pro&ximity browser
+Process &options...
+R&ecent scripts
+Release &notes
+Report a bug or an issue...
+Reset Font Size
+Run to &cursor
+Run to &cursor (backwards)
+Run until return
+S&tructs
+Se&lect union member...
+Searc&h
+Search highlight down
+Search highlight up
+Select &all
+Select &identifier
+Set defa&ult segment register value...
+Set operand t&ype...
+St&rings
+Stac&k variable
+Step &into
+Step &into (backwards)
+Step o&ver
+Step o&ver (backwards)
+Struct &var...
+Switch to &source
+Take &memory snapshot
+Teams
+Teams Options
+Toggle &border
+Tracin&g
+Undo history
+Unhid&e all
+Xrefs graph from
+Xrefs graph to
+关闭(&C)
+帮助
+帮助(&H)
+扩展(&N)
+搜索(&H)
+文件(&F)
+窗口(&W)
+编辑(&E)
+视图(&V)
+跳转(&J)
+选项(&O)

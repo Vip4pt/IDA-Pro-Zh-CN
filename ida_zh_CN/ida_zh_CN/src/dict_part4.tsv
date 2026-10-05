@@ -1,0 +1,236 @@
+# ===== 右键/其他菜单 (2) =====
+IDA Assist	IDA Assist
+IDC SDK	IDC SDK
+Import &as snippet	作为片段导入(&A)
+Import from file...	从文件导入(&I)...
+Increment value	递增值
+Insert &gap...	插入空隙(&G)...
+Insert...	插入(&I)...
+Interactive merge	交互式合并
+Invert selection	反选
+Isolated system emulator	隔离系统模拟器
+Jump anywhere...	跳到任意位置(&J)...
+Jump by &name...	按名称跳转(&N)...
+Jump in a ne&w window	在新窗口中跳转(&W)
+Jump in a new hex window	在新的十六进制窗口中跳转
+Jump to	跳转到
+Jump to &address...	跳到地址(&A)...
+Jump to &entry point...	跳到入口点(&E)...
+Jump to &function...	跳到函数(&F)...
+Jump to &link...	跳到链接(&L)...
+Jump to &marked position...	跳到标记位置(&M)...
+Jump to &problem...	跳到问题(&P)...
+Jump to &segment...	跳到段(&S)...
+Jump to &xref to operand...	跳到操作数的交叉引用(&X)...
+Jump to IP	跳到 IP
+Jump to a neighboring node (down)	跳到相邻节点(下方)
+Jump to a neighboring node (up)	跳到相邻节点(上方)
+Jump to end of line/window bottom/end	跳到行尾/窗口底部/末尾
+Jump to file &offset...	跳到文件偏移(&O)...
+Jump to listing end	跳到清单末尾
+Jump to listing start	跳到清单开头
+Jump to nex&t position	跳到下一位置(&T)
+Jump to next function	跳到下一函数
+Jump to p&revious position	跳到上一位置(&R)
+Jump to prev function	跳到上一函数
+Jump to se&gment register...	跳到段寄存器(&G)...
+Jump to start of line/window top/start	跳到行首/窗口顶部/开头
+Jump to the bottom of the window	跳到窗口底部
+Jump to the top of the window	跳到窗口顶部
+Jump to...	跳转到(&J)...
+Layout graph	布局图形
+Learn about Assist...	了解 Assist(&L)...
+Learn about Malware Analysis...	了解 Malware Analysis(&L)...
+Learn about Private Lumina...	了解私有 Lumina(&L)...
+Legend visible	显示图例
+List &cross references from...	列出来向交叉引用(&C)...
+List &cross references to...	列出去向交叉引用(&C)...
+Load debug &symbols	加载调试符号(&S)
+Load overlay	加载覆盖层
+Load trace	加载跟踪
+Map to another type...	映射到其他类型(&M)...
+Map to other widget...	映射到其他窗口部件(&M)...
+Mar&k position...	标记位置(&K)...
+Match case	区分大小写
+Metadata History	元数据历史
+Migrate to another worklist...	迁移到其他工作列表(&M)...
+Minimap	缩略图
+Modify filters...	修改过滤器(&M)...
+Modify value...	修改值(&M)...
+Move one character left	左移一个字符
+Move one character right	右移一个字符
+Move one line down	下移一行
+Move one line up	上移一行
+Move one page down	下移一页
+Move one page up	上移一页
+Move one word left	左移一个词
+Move one word right	右移一个词
+Move previous char, in current column	在当前列内前移一个字符
+Move segment(s)	移动段
+Move to beginning of current column	移到当前列开头
+Move to beginning of line	移到行首
+Move to beginning of text	移到文本开头
+Move to end of line	移到行尾
+Move to end of text	移到文本末尾
+Move to folder...	移动到文件夹(&M)...
+New...	新建(&N)...
+Next Match	下一个匹配
+Next search result	下一个搜索结果
+Next window	下一窗口
+Now	现在
+Offset (&current segment)	偏移(当前段)(&C)
+Offset (&data segment)	偏移(数据段)(&D)
+Offset (&user-defined)...	偏移(用户自定义)(&U)...
+Offset (struc&t)...	偏移(结构体)(&T)...
+Offset by (&any segment)...	按任意段偏移(&A)...
+Open IDA Feeds	打开 IDA Feeds
+Open Search	打开搜索
+Open register window	打开寄存器窗口
+Open the containing folder	打开所在文件夹
+Open this revision	打开此修订
+Open xref tree (first → last)	打开交叉引用树(首 → 尾)
+Open xref tree (last ← first)	打开交叉引用树(尾 ← 首)
+Options	选项
+Orthogonal layout	正交布局
+Pan the screen down one line	屏幕下移一行
+Pan the screen up one line	屏幕上移一行
+Parse &C header file...	解析 C 头文件(&C)...
+Paste	粘贴
+Pull &Repository	拉取仓库(&R)
+Pull all	全部拉取
+Pull function	拉取函数
+Pull repository	拉取仓库
+Push all	全部推送
+Push function	推送函数
+Push repository	推送仓库
+Python SDK	Python SDK
+Quick &filter	快速过滤器(&F)
+Radial tree layout	放射树布局
+Re&move function tail...	移除函数尾部(&M)...
+Re&name	重命名(&N)
+Re-open trace viewer	重新打开跟踪查看器
+Reanalyze program	重新分析程序
+Rebuild...	重建(&R)...
+Redo	重做
+Refresh	刷新
+Region by address	按地址的区域
+Regular expression	正则表达式
+Reload exceptions	重新加载异常
+Remove Last Filter	移除上一个过滤器
+Remove from history	从历史移除
+Remove ga&p...	移除空隙(&P)...
+Repeat last palette command	重复上一条命令面板命令
+Reset filters	重置过滤器
+Reset graph	重置图形
+Reset h&idden messages...	重置隐藏消息(&I)...
+Reset natural order	重置自然顺序
+Reset undo history	重置撤销历史
+Restore selection	恢复选区
+Revert function	还原函数
+Revert if unchanged	未更改则还原
+Revert to defaults	恢复默认
+Revert...	还原(&R)...
+Run current...	运行当前(&R)...
+S&tring literals...	字符串字面量(&T)...
+Sa&ve as...	另存为(&V)...
+Sandbox	沙箱
+Save &to file...	保存到文件(&T)...
+Save to file...	保存到文件(&S)...
+Save trace	保存跟踪
+Scan vault	扫描 Vault
+Script &file...	脚本文件(&F)...
+Script co&mmand...	脚本命令(&M)...
+Se&lectors	选择子(&L)
+Search Again	再次搜索
+Search again	再次搜索
+Search bar	搜索栏
+Search nodes	搜索节点
+Segment &registers	段寄存器(&R)
+Select All	全选
+Select nodes of this color	选择此颜色的节点
+Selected modules	所选模块
+Selection with dependencies...	连带依赖的选区(&S)...
+Set IP	设置 IP
+Set node color	设置节点颜色
+Set node color to default	节点颜色恢复默认
+Set password...	设置密码(&S)...
+Set t&ype...	设置类型(&Y)...
+Set tab size	设置制表符宽度
+Setup &data types...	设置数据类型(&D)...
+Show	显示
+Show all	全部显示
+Show annotations	显示注解
+Show arguments location	显示参数位置
+Show command palette...	显示命令面板(&C)...
+Show completions	显示补全
+Show deleted files	显示已删除文件
+Show demangled	显示还原后的名称
+Show folders	显示文件夹
+Show ignored files	显示已忽略文件
+Show in graph again	重新在图中显示
+Show other users' worklists	显示其他用户的工作列表
+Show overlay info	显示覆盖层信息
+Show selection only	仅显示选区
+Show shortest path for this segment	显示此段的最短路径
+Show timestamps	显示时间戳
+Show trace call graph	显示跟踪调用图
+Show trace info	显示跟踪信息
+Sign&atures	签名(&A)
+Single &float (32-bit)	单精度浮点 (32 位)(&F)
+Source &paths...	源码路径(&P)...
+Speakeasy (isolated system emulator)	Speakeasy(隔离系统模拟器)
+Stac&k variables...	栈变量(&K)...
+Start interactive emulation	开始交互式模拟
+Strin&gs	字符串(&G)
+Subtract overlay	减去覆盖层
+Switch d&ebugger...	切换调试器(&E)...
+Switch to window #1	切换到窗口 #1
+Switch to window #2	切换到窗口 #2
+Switch to window #3	切换到窗口 #3
+Switch to window #4	切换到窗口 #4
+Switch to window #5	切换到窗口 #5
+Switch to window #6	切换到窗口 #6
+Switch to window #7	切换到窗口 #7
+Switch to window #8	切换到窗口 #8
+Switch to window #9	切换到窗口 #9
+Symbol	符号
+Synchronized	已同步
+T&ype libraries	类型库(&Y)
+Take database snapsho&t...	取得数据库快照(&T)...
+Toggle Sync with cursor	切换光标同步
+Toggle breakpoint	切换断点
+Toggle highlight scope	切换高亮范围
+Toggle renderer	切换渲染器
+Toggle value	切换值
+Tracing &options...	跟踪选项(&O)...
+Tree layout	树形布局
+Undo	撤销
+Ungroup nodes	取消节点组合
+Unhide all groups	取消所有分组隐藏
+Unhide group	取消分组隐藏
+Unicode pascal (2 byte length)	Unicode Pascal(2 字节长度)
+Unicode wide pascal (4 byte length)	Unicode 宽 Pascal(4 字节长度)
+Unpack now...	立即脱壳(&U)...
+Unpacker	脱壳器
+Unsort	取消排序
+Use local, discard remote...	采用本地,丢弃远程(&L)...
+Use nice names for addresses	地址使用友好名称
+Use predefined color 1	使用预定义颜色 1
+Use predefined color 2	使用预定义颜色 2
+Use remote, discard local...	采用远程,丢弃本地(&U)...
+Use source-&level debugging	使用源码级调试(&L)
+Use this site...	使用此站点(&U)...
+VMRay	VMRay
+View all	查看全部
+View function	查看函数
+View type library contents	查看类型库内容
+View worklist...	查看工作列表(&V)...
+Whole words	全词匹配
+Windows &list	窗口列表(&L)
+Windows &list (prev)	窗口列表(上一)(&L)
+Windows list (next)	窗口列表(下一)
+Zero value	零值
+Delete	删除
+Hide column	隐藏列
+Hide node	隐藏节点
+Pin node(s)	固定节点

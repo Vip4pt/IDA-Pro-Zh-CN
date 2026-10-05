@@ -1,0 +1,1280 @@
+Open names window	
+Search for the next item	
+Open imports window	
+Execute each instruction	
+Execute instructions without entering into functions	
+Run until execution returns from the current function	
+Execute instructions until instruction under the cursor is reached	
+Execute each instruction backwards	
+Execute instructions backwards without entering into functions	
+Execute instructions backwards until instruction under the cursor is reached	
+Open threads window	
+Open modules window	
+Load a new file or database	
+Move to previous conflict	
+Execute a script file	
+Execute a script command	
+Save the database	
+Convert to instruction	
+Convert to data	
+Declare a structure variable	
+Convert to string	
+Unicode(&U)	
+Convert to array	
+Convert to undefined	
+Rename the current location	
+Convert the current operand to an offset in the data segment	
+Convert the current operand to a number	
+Convert the current operand to a character constant	
+Convert the current operand to a segment base	
+Convert the current operand to a symbolic constant	
+Convert the current operand to a stack variable	
+Change the sign of the current operand	
+Perform bitwise negation of the current operand	
+Enter the current operand manually	
+Enter a regular comment	
+Enter lines preceding the generated lines	
+Enter lines following the generated lines	
+Open the stack variables window	
+Set type information for an item or current function	
+Return to the previous saved position	
+Go to the next saved position	
+Search for immediate value	
+Search for text	
+Search for sequence of bytes	
+Change the search direction	
+Open disassembly view	
+Open hexadecimal view	
+Open exports window	
+Open functions window	
+Open string window	
+Open segments window	
+Open segment registers window	
+Open selectors window	
+Open signatures window	
+Open types window	
+Open local type definitions window	
+Open cross references window	
+Open cross references tree	
+Find call paths between addresses	
+General notes about the current database	
+Open calculator	
+Hide the current function, segment, structure, enumeration or create a hidden range	
+Unhide the current function, segment, structure, enumeration or hidden range	
+Delete the current hidden range, or all hidden ranges in a range	
+Open debugging window	
+Open the stack trace window	
+Open breakpoints window	
+Add a breakpoint to the current address	
+Delete the breakpoint at the current address	
+Open the watch list window	
+Add a variable to watch	
+Toggle instruction tracing	
+Toggle function tracing	
+Start a new process in the debugger or continue a debugged process	
+Pause or continue the debugged process	
+Terminate the debugged process	
+Continue execution backwards in a trace (with supported debuggers)	
+Switch from disassembly to source view	
+Lumina(&N)	
+Assist(&A)	
+IDA MCP(&M)	
+Move to next conflict	
+Create structures, unions, or enumerations	
+Delete a type	
+Open type editor for type	
+Apply all in this step (pick changes in 'remote' for conflicts)	
+Move to next difference	
+Create a new function or edit its attributes	
+Switch to text diassembly view	
+Setup graph options	
+Switch to graph disassembly view	
+Setup graph colors	
+Lock/unlock the current highlight	
+Move to previous difference	
+Center chunk on screen	
+Apply all in this step (keep changes in 'local' for conflicts)	
+Keep 'local' change	
+Pick 'remote' change	
+Proximity browser	
+Show proximity browser	
+Down	
+<b>IDA - The Interactive Disassembler</b>	
+Version	
+<b><a href="https://www.hex-rays.com/">www.hex-rays.com</a></b>	
+WAITING 	
+Move to next conflict	
+Convert to instruction	
+Convert to data	
+Declare a structure variable	
+Convert to string	
+Unicode(&U)	
+Convert to array	
+Convert to undefined	
+Rename the current location	
+Convert the current operand to an offset in the data segment	
+Convert the current operand to a number	
+Convert the current operand to a character constant	
+Convert the current operand to a segment base	
+Convert the current operand to a symbolic constant	
+Convert the current operand to a stack variable	
+Change the sign of the current operand	
+Perform bitwise negation of the current operand	
+Enter the current operand manually	
+Enter a regular comment	
+Enter lines preceding the generated lines	
+Enter lines following the generated lines	
+Open the stack variables window	
+Set type information for an item or current function	
+Load a new file or database	
+Execute a script file	
+Execute a script command	
+Save the database	
+Return to the previous saved position	
+Go to the next saved position	
+Search for immediate value	
+Search for text	
+Search for sequence of bytes	
+Change the search direction	
+Open disassembly view	
+Open hexadecimal view	
+Open exports window	
+Open imports window	
+Open names window	
+Open functions window	
+Open string window	
+Open segments window	
+Open segment registers window	
+Open selectors window	
+Open signatures window	
+Open types window	
+Open local type definitions window	
+Open cross references window	
+Open cross references tree	
+Find call paths between addresses	
+General notes about the current database	
+Open calculator	
+Hide the current function, segment, structure, enumeration or create a hidden range	
+Unhide the current function, segment, structure, enumeration or hidden range	
+Delete the current hidden range, or all hidden ranges in a range	
+Open debugging window	
+Open threads window	
+Open modules window	
+Open the stack trace window	
+Open breakpoints window	
+Add a breakpoint to the current address	
+Delete the breakpoint at the current address	
+Open the watch list window	
+Add a variable to watch	
+Toggle instruction tracing	
+Toggle function tracing	
+Start a new process in the debugger or continue a debugged process	
+Pause or continue the debugged process	
+Terminate the debugged process	
+Execute each instruction	
+Execute instructions without entering into functions	
+Run until execution returns from the current function	
+Execute instructions until instruction under the cursor is reached	
+Continue execution backwards in a trace (with supported debuggers)	
+Execute each instruction backwards	
+Execute instructions backwards without entering into functions	
+Execute instructions backwards until instruction under the cursor is reached	
+Switch from disassembly to source view	
+Lumina(&N)	
+Assist(&A)	
+IDA MCP(&M)	
+Move to previous difference	
+Center chunk on screen	
+Move to next difference	
+Create structures, unions, or enumerations	
+Setup graph options	
+Delete a type	
+Create a new function or edit its attributes	
+Switch to text diassembly view	
+Switch to graph disassembly view	
+Setup graph colors	
+Lock/unlock the current highlight	
+Open type editor for type	
+Search for the next item	
+Move to previous conflict	
+Apply all in this step (keep changes in 'local' for conflicts)	
+Apply all in this step (pick changes in 'remote' for conflicts)	
+Keep 'local' change	
+Pick 'remote' change	
+Proximity browser	
+Show proximity browser	
+Down	
+DebuggerSelected	
+DebuggerUnselected	
+DebuggerRunToAndAttach	
+detect and parse golang metadata	
+Other	
+Generate microcode	
+Raise maturity level	
+Lower maturity level	
+Highest maturity level	
+List cross references to...	
+List cross references from...	
+Jump to disassembly	
+Edit block comment...	
+Edit comment...	
+Insert assertion...	
+Delete instruction	
+Show number origins	
+Show value numbers	
+Detailed view	
+Show addresses	
+Display chains...	
+Display local types...	
+Display microcode graph...	
+Display ctree...	
+Structural analysis...	
+Generate ctree	
+Jump to pseudocode	
+Lower ctree maturity	
+Raise ctree maturity	
+Highest ctree maturity	
+Toggle hex/dec	
+Cha&r	
+Enu&m	
+Invert &sign	
+&Bitwise negate	
+Structure offse&t	
+Rever&t CONTAINING_RECORD	
+&Force call type	
+Set &call type...	
+Add &variadic argument	
+Delete variadic argument	
+Rename...	
+Reset pointer type	
+Add &cast...	
+Convert to struct *...	
+Map to another variable...	
+Unmap variable(s)...	
+Forbid assignment propagation	
+Split variable	
+Unsplit variable	
+Create scattered pair	
+Delete scattered pair	
+Remove function argument/retval	
+Remove/Add function retval	
+Quick rename...	
+Split expression	
+Unsplit expression	
+Split memory access	
+Unsplit memory access	
+Create new struct type...	
+Select union field...	
+Jump to structure definition...	
+&Jump to local type...	
+&Edit type...	
+Jump to &xref...	
+Jump to xref globally...	
+Jump to pseudocode in a new view	
+Delete orphan comments	
+Collapse item	
+Uncollapse item	
+Collapse declarations	
+Uncollapse declarations	
+Mark as decompiled	
+Unmark as decompiled	
+Copy to assembly	
+Toggle display casts	
+Toggle SSE intrinsics	
+Generate pseudocode	
+Add empty line	
+Jump to matching brace	
+Show all call decompilations...	
+Show all xref decompilations...	
+Invert then/else	
+Collapse then-branch	
+Uncollapse then-branch	
+Collapse else-branch	
+Uncollapse else-branch	
+Stock comments	
+&Batch decompile...	
+Produce	
+Decompile &recursively	
+Send &database...	
+E&xtract function...	
+Add pseudocode comments...	
+Delete pseudocode comments...	
+&Reset decompiler information...	
+&Toggle skippable instructions...	
+Decompile as cal&l...	
+Search for pictures	
+Open picture	
+Open subviews	
+Open picture in default viewer	
+Save picture	
+Jump to address	
+Mark as inline	
+Mark function as inline (FUNC_OUTLINE) and clear decompiler caches for callers	
+Mark as outline	
+Unmark function as inline (clear FUNC_OUTLINE) and clear decompiler caches for callers	
+C++ exception display settings	
+C++ exception settings ...	
+Hide C++ wind states	
+Show C++ wind states	
+Hide unstructured C++ states	
+Show unstructured C++ states	
+De-obfuscate arithmetic expressions	
+Attempt to simplify Mixed Boolean Arithmetic-obfuscated expressions using gooMBA	
+Create &SIG file...	
+Produce file	
+Mark as Swift string	
+Unmark Swift string	
+Rescan Swift strings	
+Specify switch idiom...	
+License manager...	
+Open license manager	
+Set type...	
+Open problems window	
+S&elect debugger...	
+Fullscreen	
+Float	
+IDA View-A	
+Zoom	
+Graph origin	
+Mouse	
+Current offset in the input file	
+Current location	
+Synchronization	
+TextArrows for IDA View-A	
+Close Tab	
+Hex View-1	
+(Synchronized with )	
+(Synchronized with IDA View-A)	
+Python	
+Enter any Python expression	
+Disk: 47GB	
+Universal PE unpacker	
+Swift	
+SVD file management	
+This plugin is designed to load SVD files	
+Sample plugin	
+This is a sample plugin. It does nothing useful	
+Jump to next fixup	
+Find the next fixup in the code	
+MCP	
+MCP Plugin	
+Load DWARF file	
+Load debug information from a DWARF file	
+COM Helper	
+Automation of COM analysis	
+Change the callee address	
+AVX Lifter	
+AVX Lifter Plugin	
+Universal Unpacker Manual Reconstruct	
+Hex-Rays Decompiler Options	
+This is a decompilation plugin.	
+Rust language helper	
+Find functions	
+IDA_zh_CN	
+IDA Feeds	
+Hex-Rays IDA Feeds Plugin	
+Copy pseudocode to disassembly	
+Export "IDA View-A" to &HTML...	
+Pull function WinMain	
+Push function WinMain	
+Revert function WinMain	
+Delete function WinMain	
+View function WinMain	
+THINKING	
+READY	
+&Synchronize with	
+Lumina	
+Pathfinding	
+Copy function	
+Alt+P	
+Ctrl+Numpad+-	
+Numpad+-	
+Alt+Shift+V	
+Shift+F9	
+Ctrl+C	
+Shift+F6	
+Alt+F3	
+Ctrl+.	
+Alt+0	
+Alt+1	
+Alt+2	
+Alt+3	
+Alt+4	
+Alt+5	
+Previous window	
+Ctrl+Shift+P	
+Ctrl+Shift+R	
+Alt+A	
+Alt+D	
+Ctrl+3	
+Ctrl+Shift+F11	
+Ctrl+Alt+M	
+Alt+F11	
+Ctrl+Shift+F10	
+Open disassembly view	
+Open hexadecimal view	
+Open debugging window	
+Declare a structure variable	
+Keep 'local' change	
+Open cross references window	
+Convert the current operand to a number	
+Execute a script file	
+Enter lines following the generated lines	
+Open imports window	
+Convert the current operand to an offset in the data segment	
+Convert the current operand to a character constant	
+Convert the current operand to a segment base	
+Convert the current operand to a symbolic constant	
+Convert the current operand to a stack variable	
+Change the sign of the current operand	
+Perform bitwise negation of the current operand	
+Enter the current operand manually	
+Pause or continue the debugged process	
+Open the stack trace window	
+Load a new file or database	
+Open segment registers window	
+Search for text	
+Change the search direction	
+Execute each instruction	
+Open breakpoints window	
+Move to next difference	
+Pick 'remote' change	
+Convert to instruction	
+Enter a regular comment	
+Enter lines preceding the generated lines	
+Open threads window	
+Open modules window	
+Delete the breakpoint at the current address	
+Open the watch list window	
+Execute instructions without entering into functions	
+Run until execution returns from the current function	
+Execute instructions until instruction under the cursor is reached	
+Continue execution backwards in a trace (with supported debuggers)	
+Execute each instruction backwards	
+Execute instructions backwards without entering into functions	
+Execute instructions backwards until instruction under the cursor is reached	
+Create structures, unions, or enumerations	
+Delete a type	
+Open type editor for type	
+Convert to data	
+Rename the current location	
+Open names window	
+Open the stack variables window	
+Create a new function or edit its attributes	
+Return to the previous saved position	
+Go to the next saved position	
+Open cross references tree	
+Search for sequence of bytes	
+Open local type definitions window	
+Search for immediate value	
+Move to previous difference	
+Center chunk on screen	
+Move to previous conflict	
+Move to next conflict	
+Proximity browser	
+Convert to undefined	
+Open exports window	
+Open functions window	
+Open string window	
+Open signatures window	
+Hide the current function, segment, structure, enumeration or create a hidden range	
+Open selectors window	
+Lumina(&N)	
+Assist(&A)	
+IDA MCP(&M)	
+Convert to string	
+Unicode(&U)	
+Convert to array	
+Find call paths between addresses	
+Open segments window	
+Open types window	
+General notes about the current database	
+Delete the current hidden range, or all hidden ranges in a range	
+Lock/unlock the current highlight	
+Save the database	
+Open calculator	
+Execute a script command	
+Down	
+<b>IDA - The Interactive Disassembler</b>	
+<b><a href="https://www.hex-rays.com/">www.hex-rays.com</a></b>	
+WAITING 	
+Python	
+Enter any Python expression	
+DebuggerSelected	
+DebuggerUnselected	
+DebuggerRunToAndAttach	
+Select file to disassemble	
+SecTools	
+MCP	
+Download	
+AdaptixC2	
+3x-ui	
+System ISO	
+zh_CN	
+Documents	
+Music	
+Videos	
+All Files (*)	
+IDA_zh_CN	
+IDA Feeds	
+Hex-Rays IDA Feeds Plugin	
+Local &Bochs debugger	
+Local &PIN debugger	
+Local &Replayer debugger	
+Local &Windows debugger	
+Remote &ARM Linux/Android debugger	
+Remote AR&M Mac OS debugger	
+Remote &GDB debugger	
+Remote &Linux debugger	
+Remote Ma&c OS X debugger	
+Remote W&indows debugger	
+Remote &XNU debugger	
+Remote i&OS debugger	
+Wi&ndbg debugger	
+Welcome	
+Drag a file here to disassemble it	
+Fullscreen	
+Float	
+READY	
+Alt+F7	
+Shift+F2	
+Ctrl+W	
+Ctrl+Shift+W	
+Alt+X	
+&0. C:\Users\Administrator\AppData\Local\Temp\zh_test\notepad.exe.i64	
+&1. C:\Users\Administrator\AppData\Local\Temp\zh_test\notepad.exe	
+&2. D:\Doubao\app\Doubao.dll	
+&3. D:\Doubao\app\Doubao.exe	
+Alt+L	
+Shift+Enter	
+Ctrl+Z	
+Ctrl+Y	
+Alt+Q	
+Numpad+*	
+Enter	
+Alt+Enter	
+Esc	
+Ctrl+Enter	
+Ctrl+L	
+Ctrl+P	
+Ctrl+S	
+Ctrl+G	
+Ctrl+Q	
+Ctrl+X	
+Ctrl+J	
+Ctrl+E	
+Alt+M	
+Ctrl+M	
+Alt+C	
+Ctrl+D	
+Ctrl+A	
+Ctrl+U	
+Alt+I	
+Ctrl+I	
+Alt+T	
+Ctrl+T	
+Alt+B	
+Ctrl+B	
+Ctrl+V	
+Ctrl+F	
+Alt+Up	
+Alt+Down	
+Alt+Shift+Up	
+Alt+Shift+Down	
+Alt+F9	
+Ctrl+Shift+T	
+Ctrl+=	
+Ctrl+-	
+Ctrl+0	
+Ctrl+Space	
+Alt+Shift+V	
+Ctrl+Numpad+-	
+Ctrl+Numpad++	
+Ctrl+1	
+Shift+F4	
+Shift+F3	
+Shift+F12	
+Shift+F7	
+Shift+F8	
+Shift+F5	
+Shift+F11	
+Shift+F1	
+Shift+X	
+Ctrl+Shift+M	
+Ctrl+Alt+P	
+Pro&blems	
+Ctrl+F12	
+Alt+F12	
+https://hex-rays.com/r/ida/mcp/get	
+IDC - Native built-in language	
+Python - IDAPython plugin	
+IDC	
+Enter IDC expressions or statements	
+Ctrl+Shift+P	
+Ctrl+Shift+R	
+Alt+A	
+Alt+D	
+Shift+F6	
+Alt+F3	
+Ctrl+.	
+Alt+0	
+Alt+1	
+Previous window	
+S&elect debugger...	
+Load file &as...	
+Processor t&ype (double-click to set)	
+Real-mode &segment	
+Image &base	
+Base address for loading the file	
+&Enabled	
+If turned off, IDA will not analyse the program	
+In&dicator enabled	
+Display the analysis progression in the status line	
+Ker&nel options	
+Kernel analysis options	
+&Processor options	
+Processor specific options	
+Loading &options	
+Fill segment &gaps	
+Leaves to gaps between segments. Use only if IDA suggests it.	
+&Load as code segment	
+Crea&te segments	
+IDA requires segments to be created now or later - manually	
+Create &FLAT group	
+Create a special group to represent flat memory	
+Create &imports segment	
+Create a separate imports segment with external definitions	
+Load &resources	
+Rena&me DLL entries	
+Use mnemonic import names instead of ordinals	
+Man&ual load	
+Gives more control for some file types	
+Load a new file	
+Other	
+BUSY	
+Loading 'monero-wallet-gui.exe' into the database.	
+Load DWARF file	
+Load debug information from a DWARF file	
+Rust language helper	
+Find functions	
+Load DWARF debug information?	
+&Global names	
+Apply types & names for global variables	
+Fun&ctions	
+Apply functions information	
+Use function &bounds	
+Override IDA's algorithm for determining functions boundaries with information from DWARF	
+&Types (uncheck for speed)	
+Import type information (slow)	
+&On-demand type loading (for very large binaries)	
+&Apply calling conventions	
+Guess and apply calling conventions from function parameters locations	
+Allow __&usercall	
+Allow __usercall calling conventions, or fallback to platform's defaults	
+&Function prototypes are definitive	
+&Import file names/line numbers	
+Assign line numbers & file names to addresses & regions of the IDB	
+DWARF info found	
+Loading DWARF information...	
+Types (Pass 2): 11%	
+Optimizing types...	
+Compacting numbered types...	
+Warning	
+&Don't display this message again	
+&Don't display this message again (for this session only)	
+Generate microcode	
+Raise maturity level	
+Lower maturity level	
+Highest maturity level	
+List cross references to...	
+List cross references from...	
+Jump to disassembly	
+Edit block comment...	
+Edit comment...	
+Insert assertion...	
+Delete instruction	
+Detailed view	
+Display chains...	
+Display local types...	
+Display microcode graph...	
+Display ctree...	
+Generate ctree	
+Jump to pseudocode	
+Lower ctree maturity	
+Raise ctree maturity	
+Highest ctree maturity	
+Cha&r	
+Enu&m	
+Invert &sign	
+&Bitwise negate	
+Rever&t CONTAINING_RECORD	
+Delete variadic argument	
+Rename...	
+Reset pointer type	
+Convert to struct *...	
+Map to another variable...	
+Forbid assignment propagation	
+Create scattered pair	
+Delete scattered pair	
+Remove function argument/retval	
+Remove/Add function retval	
+Quick rename...	
+Create new struct type...	
+Jump to structure definition...	
+&Edit type...	
+Jump to &xref...	
+Jump to xref globally...	
+Jump to pseudocode in a new view	
+Delete orphan comments	
+Mark as decompiled	
+Copy to assembly	
+Generate pseudocode	
+Jump to matching brace	
+Invert then/else	
+Produce	
+Decompile &recursively	
+E&xtract function...	
+Delete pseudocode comments...	
+Decompile as cal&l...	
+Search for pictures	
+Open picture	
+Open subviews	
+Open picture in default viewer	
+Save picture	
+Jump to address	
+Mark as inline	
+Mark function as inline (FUNC_OUTLINE) and clear decompiler caches for callers	
+Mark as outline	
+Unmark function as inline (clear FUNC_OUTLINE) and clear decompiler caches for callers	
+C++ exception settings ...	
+Hide C++ wind states	
+Hide unstructured C++ states	
+De-obfuscate arithmetic expressions	
+Create &SIG file...	
+Produce file	
+Mark as Swift string	
+Rescan Swift strings	
+License manager...	
+Open license manager	
+Open problems window	
+IDA View-A	
+Graph origin	
+Mouse	
+Current offset in the input file	
+Current location	
+TextArrows for IDA View-A	
+Close Tab	
+Hex View-1	
+(Synchronized with )	
+(Synchronized with IDA View-A)	
+Copy pseudocode to disassembly	
+Export "IDA View-A" to &HTML...	
+Pull function main	
+Push function main	
+Revert function main	
+Delete function main	
+View function main	
+FFFFFFFF struct threadmbcinfostruct;	
+Disk: 545GB	
+Swift	
+SVD file management	
+This plugin is designed to load SVD files	
+Sample plugin	
+This is a sample plugin. It does nothing useful	
+Jump to next fixup	
+Find the next fixup in the code	
+Create IDT file	
+Create .IDT file	
+MCP Plugin	
+COM Helper	
+Change the callee address	
+AVX Lifter	
+AVX Lifter Plugin	
+Hex-Rays Decompiler Options	
+This is a decompilation plugin.	
+THINKING	
+Edit function...	
+Delete function(s)...	
+Expand entire tree	
+Collapse entire tree	
+Copy "build"	
+IDA will save all changes to the disk.	
+Do&n't pack database	
+Pack database (&Store)	
+Pack database (Compressed &file)	
+&Collect garbage	
+Save database	
+&Don't save	
+Change the search direction	
+Execute each instruction backwards	
+Search for text	
+Move to next conflict	
+Open debugging window	
+Open threads window	
+Open modules window	
+Open the stack trace window	
+Open disassembly view	
+Open hexadecimal view	
+Load a new file or database	
+Search for sequence of bytes	
+Convert the current operand to a number	
+Move to previous conflict	
+Open exports window	
+Open imports window	
+Open names window	
+Open functions window	
+Open string window	
+Execute instructions backwards until instruction under the cursor is reached	
+Open type editor for type	
+Convert to data	
+Rename the current location	
+Open the stack variables window	
+Open local type definitions window	
+Open calculator	
+General notes about the current database	
+Execute a script command	
+Execute a script file	
+Search for immediate value	
+Save the database	
+Return to the previous saved position	
+Go to the next saved position	
+Convert to string	
+Unicode(&U)	
+Open segment registers window	
+Open the watch list window	
+Pause or continue the debugged process	
+Hide the current function, segment, structure, enumeration or create a hidden range	
+Delete the current hidden range, or all hidden ranges in a range	
+Execute each instruction	
+Proximity browser	
+Delete the breakpoint at the current address	
+Convert to array	
+Move to previous difference	
+Center chunk on screen	
+Move to next difference	
+Create structures, unions, or enumerations	
+Delete a type	
+Open cross references window	
+Convert the current operand to a stack variable	
+Convert to instruction	
+Declare a structure variable	
+Convert to undefined	
+Convert the current operand to an offset in the data segment	
+Convert the current operand to a character constant	
+Convert the current operand to a segment base	
+Convert the current operand to a symbolic constant	
+Change the sign of the current operand	
+Perform bitwise negation of the current operand	
+Enter the current operand manually	
+Enter a regular comment	
+Enter lines preceding the generated lines	
+Enter lines following the generated lines	
+Open segments window	
+Open selectors window	
+Open signatures window	
+Open types window	
+Open cross references tree	
+Find call paths between addresses	
+Open breakpoints window	
+Execute instructions without entering into functions	
+Run until execution returns from the current function	
+Execute instructions until instruction under the cursor is reached	
+Continue execution backwards in a trace (with supported debuggers)	
+Execute instructions backwards without entering into functions	
+Lumina(&N)	
+Assist(&A)	
+IDA MCP(&M)	
+Lock/unlock the current highlight	
+Create a new function or edit its attributes	
+Keep 'local' change	
+Pick 'remote' change	
+Down	
+<b>IDA - The Interactive Disassembler</b>	
+<b><a href="https://www.hex-rays.com/">www.hex-rays.com</a></b>	
+WAITING 	
+Local &Bochs debugger	
+Local &PIN debugger	
+Local &Replayer debugger	
+Local &Windows debugger	
+Remote &ARM Linux/Android debugger	
+Remote AR&M Mac OS debugger	
+Remote &GDB debugger	
+Remote &Linux debugger	
+Remote Ma&c OS X debugger	
+Remote W&indows debugger	
+Remote &XNU debugger	
+Remote i&OS debugger	
+Wi&ndbg debugger	
+DebuggerSelected	
+DebuggerUnselected	
+IDA_zh_CN	
+IDA Feeds	
+Hex-Rays IDA Feeds Plugin	
+Python	
+Enter any Python expression	
+Welcome	
+Drag a file here to disassemble it	
+Fullscreen	
+Float	
+READY	
+Open type editor for type	
+Open the watch list window	
+Convert the current operand to a number	
+Convert to string	
+Unicode(&U)	
+Open cross references window	
+Open cross references tree	
+Find call paths between addresses	
+Convert to instruction	
+Convert to data	
+Declare a structure variable	
+Convert to array	
+Rename the current location	
+Convert to undefined	
+Open names window	
+Center chunk on screen	
+Change the search direction	
+Move to previous difference	
+Return to the previous saved position	
+Go to the next saved position	
+Execute instructions backwards without entering into functions	
+Search for immediate value	
+Search for text	
+Search for sequence of bytes	
+Open types window	
+Enter lines following the generated lines	
+Create structures, unions, or enumerations	
+Delete a type	
+Move to next difference	
+Move to previous conflict	
+Move to next conflict	
+Keep 'local' change	
+Pick 'remote' change	
+Delete the current hidden range, or all hidden ranges in a range	
+Enter a regular comment	
+Enter lines preceding the generated lines	
+Open segments window	
+Open segment registers window	
+Open selectors window	
+Open the stack variables window	
+Convert the current operand to an offset in the data segment	
+Convert the current operand to a character constant	
+Convert the current operand to a segment base	
+Convert the current operand to a symbolic constant	
+Change the sign of the current operand	
+Perform bitwise negation of the current operand	
+General notes about the current database	
+Open exports window	
+Open disassembly view	
+Open hexadecimal view	
+Open imports window	
+Open functions window	
+Open string window	
+Open signatures window	
+Open local type definitions window	
+Load a new file or database	
+Open debugging window	
+Open threads window	
+Open modules window	
+Open the stack trace window	
+Open breakpoints window	
+Delete the breakpoint at the current address	
+Pause or continue the debugged process	
+Execute each instruction	
+Execute instructions without entering into functions	
+Run until execution returns from the current function	
+Execute instructions until instruction under the cursor is reached	
+Continue execution backwards in a trace (with supported debuggers)	
+Execute each instruction backwards	
+Execute instructions backwards until instruction under the cursor is reached	
+Create a new function or edit its attributes	
+Convert the current operand to a stack variable	
+Enter the current operand manually	
+Execute a script file	
+Save the database	
+Hide the current function, segment, structure, enumeration or create a hidden range	
+Lock/unlock the current highlight	
+Open calculator	
+Execute a script command	
+Proximity browser	
+Lumina(&N)	
+Assist(&A)	
+IDA MCP(&M)	
+Down	
+<b>IDA - The Interactive Disassembler</b>	
+<b><a href="https://www.hex-rays.com/">www.hex-rays.com</a></b>	
+WAITING 	
+Python	
+Enter any Python expression	
+DebuggerSelected	
+DebuggerUnselected	
+DebuggerRunToAndAttach	
+Select file to disassemble	
+SecTools	
+MCP	
+Download	
+AdaptixC2	
+3x-ui	
+System ISO	
+zh_CN	
+Documents	
+Music	
+Videos	
+All Files (*)	
+S&elect debugger...	
+Load file &as...	
+Processor t&ype (double-click to set)	
+Real-mode &segment	
+Image &base	
+Base address for loading the file	
+&Enabled	
+If turned off, IDA will not analyse the program	
+In&dicator enabled	
+Display the analysis progression in the status line	
+Ker&nel options	
+Kernel analysis options	
+&Processor options	
+Processor specific options	
+Loading &options	
+Fill segment &gaps	
+Leaves to gaps between segments. Use only if IDA suggests it.	
+&Load as code segment	
+Crea&te segments	
+IDA requires segments to be created now or later - manually	
+Create &FLAT group	
+Create a special group to represent flat memory	
+Create &imports segment	
+Create a separate imports segment with external definitions	
+Load &resources	
+Rena&me DLL entries	
+Use mnemonic import names instead of ordinals	
+Man&ual load	
+Gives more control for some file types	
+Load a new file	
+Load file D:\Doubao\app\Doubao.exe &as	
+Other	
+Copy "Portable executable for AMD64 (PE) [pe.dll]"	
+BUSY	
+Loading 'Doubao.exe' into the database.	
+Load DWARF file	
+Load debug information from a DWARF file	
+Rust language helper	
+Find functions	
+IDA_zh_CN	
+IDA Feeds	
+Hex-Rays IDA Feeds Plugin	
+Loading debug information	
+Load PDB file	
+The input file was linked with debug information stored here:	
+Do you want to look for this file at the specified path	
+and the Microsoft Symbol Server?	
+Load types	
+Load names	
+Doubao.exe.pdb	
+Load &types	
+Load n&ames	
+Generate microcode	
+Raise maturity level	
+Lower maturity level	
+Highest maturity level	
+List cross references to...	
+List cross references from...	
+Jump to disassembly	
+Edit block comment...	
+Edit comment...	
+Insert assertion...	
+Delete instruction	
+Detailed view	
+Display chains...	
+Display local types...	
+Display microcode graph...	
+Display ctree...	
+Generate ctree	
+Jump to pseudocode	
+Lower ctree maturity	
+Raise ctree maturity	
+Highest ctree maturity	
+Cha&r	
+Enu&m	
+Invert &sign	
+&Bitwise negate	
+Rever&t CONTAINING_RECORD	
+Delete variadic argument	
+Rename...	
+Reset pointer type	
+Convert to struct *...	
+Map to another variable...	
+Forbid assignment propagation	
+Create scattered pair	
+Delete scattered pair	
+Remove function argument/retval	
+Remove/Add function retval	
+Quick rename...	
+Create new struct type...	
+Jump to structure definition...	
+&Edit type...	
+Jump to &xref...	
+Jump to xref globally...	
+Jump to pseudocode in a new view	
+Delete orphan comments	
+Mark as decompiled	
+Copy to assembly	
+Generate pseudocode	
+Jump to matching brace	
+Invert then/else	
+Produce	
+Decompile &recursively	
+E&xtract function...	
+Delete pseudocode comments...	
+Decompile as cal&l...	
+Search for pictures	
+Open picture	
+Open subviews	
+Open picture in default viewer	
+Save picture	
+Jump to address	
+Mark as inline	
+Mark function as inline (FUNC_OUTLINE) and clear decompiler caches for callers	
+Mark as outline	
+Unmark function as inline (clear FUNC_OUTLINE) and clear decompiler caches for callers	
+C++ exception settings ...	
+Hide C++ wind states	
+Hide unstructured C++ states	
+De-obfuscate arithmetic expressions	
+Create &SIG file...	
+Produce file	
+Mark as Swift string	
+Rescan Swift strings	
+License manager...	
+Open license manager	
+Open problems window	
+IDA - Doubao.exe D:\Doubao\app\Doubao.exe	
+Fullscreen	
+Float	
+IDA View-A	
+Graph origin	
+Mouse	
+Current offset in the input file	
+Current location	
+TextArrows for IDA View-A	
+Close Tab	
+Hex View-1	
+(Synchronized with )	
+(Synchronized with IDA View-A)	
+Copy pseudocode to disassembly	
+Export "IDA View-A" to &HTML...	
+Pull function WinMain	
+Push function WinMain	
+Revert function WinMain	
+Delete function WinMain	
+View function WinMain	
+Disk: 546GB	
+Swift	
+SVD file management	
+This plugin is designed to load SVD files	
+Sample plugin	
+This is a sample plugin. It does nothing useful	
+Jump to next fixup	
+Find the next fixup in the code	
+Create IDT file	
+Create .IDT file	
+MCP Plugin	
+COM Helper	
+Change the callee address	
+AVX Lifter	
+AVX Lifter Plugin	
+Hex-Rays Decompiler Options	
+This is a decompilation plugin.	
+READY	
+THINKING	
+&Synchronize with	
+Lumina	
+Pathfinding	
+Copy function	
+Alt+P	
+Ctrl+Numpad+-	
+Numpad+-	
+Alt+Shift+V	
+.text:	
+Copy highlight	
+Alt+M	
+Ctrl+C	
+Propagating type information	
+; int __stdcall wWinMain(HINSTANCE hInstance, HINSTANCE hPrevInstance, LPSTR lpCmdLine, int nShowCmd)	
+wWinMain proc near	
+dwDesiredAccess= dword ptr -3E8h	
+bInheritHandle= dword ptr -3E0h	
+dwOptions= dword ptr -3D8h	
+PathName= word ptr -3C8h	
+Dst= qword ptr -2D0h	
+TargetHandle= qword ptr -278h	
+Filename= word ptr -258h	
+hSourceHandle= qword ptr -220h	
+pmovmskb ecx, xmm0	
+pcmpeqb xmm0, xmmword ptr cs:aFallbackHandle ; "fallback-handler"	
+pmovmskb eax, xmm0	
+cqo	
+pcmpeqb xmm0, xmmword ptr cs:aProfileDirecto ; "profile-directory"	
+pcmpeqb xmm2, xmm1	
+retn	
+Pull function wWinMain	
+Push function wWinMain	
+Revert function wWinMain	
+Delete function wWinMain	
+View function wWinMain	
+var_2C0= qword ptr 	
+Ctrl+X	
+Alt+F7	
+Shift+F2	
+Ctrl+W	
+Ctrl+Shift+W	
+Alt+X	
+&0. D:\Doubao\app\Doubao.exe	
+Ctrl+F9	
+Extract function	
+Shift+F6	
+Alt+F3	
+Ctrl+.	
+Alt+0	
+Alt+1	
+Alt+2	
+Alt+3	
+Alt+4	
+Alt+5	
+Previous window	
+Ctrl+Shift+P	
+Ctrl+Shift+R	
+Alt+A	
+Alt+D	
+Ctrl+3	
+Ctrl+Shift+F11	
+Alt+F6	
+Ctrl+Alt+M	
+Alt+F11	
+Ctrl+Shift+F10	
+Ctrl+F12	
+Alt+F12	
+Select a debugger	
+Local Bochs debugger	
+Local Windows debugger	
+PIN tracer	
+Remote GDB debugger	
+Remote Windows debugger	
+Remote XNU debugger	
+Trace replayer	
+Windbg debugger	
+Default debuggers (autoselected for new databases):	
+Set as default debugger	
+&No debugger	
+Local &Bochs debugger	
+Local &Windows debugger	
+&PIN tracer	
+Remote &GDB debugger	
+Remote W&indows debugger	
+Remote &XNU debugger	
+&Trace replayer	
+Windbg d&ebugger	
+NONE	
+Set as &default debugger	
+Add the selected debugger to the default list	
+Available debuggers	

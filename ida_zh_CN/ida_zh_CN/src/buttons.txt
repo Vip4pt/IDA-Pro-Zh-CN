@@ -1,0 +1,121 @@
+&Display at startup
+&Go
+&New
+&Previous
+Add breakpoint
+Add type
+Add watch
+Analysis
+Apply all differences in this step (keep local)
+Apply all differences in this step (pick remote)
+Array
+Bitwise negate
+Breakpoint list
+Calculator
+Cancel
+Center chunk
+Change sign
+Character
+Code
+Continue backwards
+Create or edit a function
+Cross references
+Cross references tree
+Data
+Debugger window
+Delete breakpoint
+Delete hidden range
+Delete type
+Delete watch
+Disassembly
+Edit type
+Enter anterior lines
+Enter comment
+Enter posterior lines
+Enter repeatable comment
+Enum member
+Exports
+Fit window
+Function tracing
+Functions
+Graph view
+Hex dump
+Hide
+Immediate value
+Imports
+Instruction tracing
+Jump to next position
+Jump to previous position
+Keep local change
+Layout graph
+Local types
+Lock highlight
+Manual
+Module list
+Names
+Next chunk
+Next conflict
+Notepad
+Number (default)
+OK
+Offset (data segment)
+Open
+Pathfinder
+Pause process
+Pick remote change
+Previous chunk
+Previous conflict
+Print graph
+Problems
+Proceed to the next step
+Proximity browser
+Python
+Rename
+Run to cursor
+Run to cursor (backwards)
+Run until return
+Save
+Script command
+Script file
+Search direction
+Search next
+Segment
+Segment registers
+Segments
+Selectors
+Sequence of bytes
+Set type
+Setup colors
+Setup options
+Signatures
+Stack trace
+Stack variable
+Stack variables
+Start process
+Step into
+Step into (backwards)
+Step over
+Step over (backwards)
+String
+Strings
+Struct var
+Switch to source
+Terminate process
+Text
+Text view
+Thread list
+Toggle 'Common' panel
+Toggle 'Details'
+Tracing window
+Type libraries
+Undefine
+Unhide
+Use source-level debugging
+Watch list
+Zoom 100%
+函数
+取消
+导入
+导出
+段
+确定

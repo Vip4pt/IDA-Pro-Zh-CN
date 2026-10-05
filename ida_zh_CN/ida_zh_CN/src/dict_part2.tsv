@@ -1,0 +1,301 @@
+# ===== 第二批: 完整菜单树 =====
+&Add breakpoint	添加断点(&A)
+&Add watch	添加监视(&A)
+&Assemble...	汇编(&A)...
+&Assist	Assist(&A)
+&Attach	附加(&A)
+&Attach to process...	附加到进程(&A)...
+&Begin selection	开始选区(&B)
+&Binary	二进制(&B)
+&Breakpoint list	断点列表(&B)
+&Breakpoints	断点(&B)
+&Calculator...	计算器(&C)...
+&Code	代码(&C)
+&Color instruction...	指令着色(&C)...
+&Commit	提交(&C)
+&Commits	提交(&C)
+&Connect	连接(&C)
+&Create Repository	创建仓库(&C)
+&Create segment...	创建段(&C)...
+&Debugger windows	调试器窗口(&D)
+&Decimal	十进制(&D)
+&Delete breakpoint	删除断点(&D)
+&Delete segment...	删除段(&D)...
+&Disassembly	反汇编(&D)
+&Disconnect	断开连接(&D)
+&Dyld Shared Cache (DSC) index	Dyld 共享缓存 (DSC) 索引(&D)
+&Edit	编辑(&E)
+&Edit segment...	编辑段(&E)...
+&Error operand	错误操作数(&E)
+&Floating point	浮点数(&F)
+&Force zero offset field	强制零偏移字段(&F)
+&Graphs	图形(&G)
+&Hex dump	十六进制转储(&H)
+&Hexadecimal	十六进制(&H)
+&History	历史(&H)
+&KernelCache (KC) index	内核缓存 (KC) 索引(&K)
+&License manager...	许可证管理器(&L)...
+&Local Changes	本地更改(&L)
+&Local files	本地文件(&L)
+&Manage Repositories	管理仓库(&M)
+&Manual instruction...	手工指令(&M)...
+&Migrate to Git Repository	迁移到 Git 仓库(&M)
+&Move current segment...	移动当前段(&M)...
+&Number	数字(&N)
+&Number (default)	数字(默认)(&N)
+&Offset	偏移(&O)
+&Open subviews	打开子视图(&O)
+&Operand type	操作数类型(&O)
+&Patch program	给程序打补丁(&P)
+&Push	推送(&P)
+&Quick debug view	快速调试视图(&Q)
+&Quick view	快速视图(&Q)
+&Rebase program...	重设程序基址(&R)...
+&Reconfigure Repository	重新配置仓库(&R)
+&Refresh memory	刷新内存(&R)
+&Repository Settings	仓库设置(&R)
+&Revert Local Changes	还原本地更改(&R)
+&Run	运行(&R)
+&Segment	段(&S)
+&Setup hidden items...	设置隐藏项(&S)...
+&Sites	站点(&S)
+&Start process	启动进程(&S)
+&Terminate process	终止进程(&T)
+&Toolbars	工具栏(&T)
+&Undefine	取消定义(&U)
+&Users	用户(&U)
+&Vault files	Vault 文件(&V)
+&Watch list	监视列表(&W)
+&Watches	监视(&W)
+&Worklists	工作列表(&W)
+A&PI Documentation	API 文档(&P)
+A&pply patches to input file...	把补丁应用到输入文件(&P)...
+About program...	关于程序(&A)...
+Address details	地址详情
+All error operands	所有错误操作数
+All void operands	所有空操作数
+Arra&y...	数组(&Y)...
+Bit&wise negate	按位取反(&W)
+Bookmar&ks	书签(&K)
+C&lone Repository	克隆仓库(&L)
+Cha&racter	字符(&R)
+Change &byte...	修改字节(&B)...
+Change &word...	修改字(&W)...
+Change se&gment register value...	修改段寄存器值(&G)...
+Change segment &translation...	修改段转换(&T)...
+Check for free update...	检查免费更新(&C)...
+Co&mments	注释(&M)
+Copy field info to &pointers	复制字段信息到指针(&P)
+Create &alignment directive...	创建对齐指令(&A)...
+Create struct from &selection	从选区创建结构体(&S)
+Database snapshot &manager...	数据库快照管理器(&M)...
+Deb&ugger options...	调试器选项(&U)...
+Decrease Font Size	缩小字体
+Detac&h from process	从进程分离(&H)
+Enter &anterior lines...	输入前导行(&A)...
+Enter &posterior lines...	输入后级行(&P)...
+Enter &repeatable comment...	输入可重复注释(&R)...
+Find register definition	查找寄存器定义
+Find register use	查找寄存器使用
+Focus command line	聚焦命令行
+Full screen	全屏
+Function calls	函数调用
+Get IDA MCP...	获取 IDA MCP...
+Get Teams...	获取 Teams...
+Graph O&verview	图形概览(&V)
+H&ide all	全部隐藏(&I)
+How to buy IDA	如何购买 IDA
+IDA &MCP	IDA MCP(&M)
+IDA &support forum	IDA 支持论坛(&S)
+IDA home page	IDA 主页
+Increase Font Size	增大字体
+Learn about IDA MCP...	了解 IDA MCP...
+Learn about Teams...	了解 Teams...
+Local &types	本地类型(&T)
+Lumi&na	Lumina(&N)
+Mal&ware Analysis	恶意软件分析(&W)
+Man&ual...	手动(&U)...
+Manage...	管理(&M)...
+Misc. tools	杂项工具
+Navigation history	导航历史
+Next &code	下一个代码(&C)
+Next &data	下一个数据(&D)
+Next &explored	下一个已探索(&E)
+Next &unexplored	下一个未探索(&U)
+Next &void	下一个空项(&V)
+Next immediate va&lue	下一个立即数(&L)
+Next sequence of &bytes	下一个字节序列(&B)
+Next te&xt	下一个文本(&X)
+Not &function	非函数(&F)
+Note&pad	记事本(&P)
+Octa&l	八进制(&L)
+Online help	在线帮助
+Open source &file...	打开源文件(&F)...
+Ot&her	其他(&H)
+P&ull	拉取(&U)
+Patched bytes	补丁字节
+Plu&gins	插件(&G)
+Print internal &flags	打印内部标志(&F)
+Print register value	打印寄存器值
+Print se&gment registers	打印段寄存器(&G)
+Pro&ximity browser	邻近浏览器(&X)
+Process &options...	进程选项(&O)...
+R&ecent scripts	最近脚本(&E)
+Release &notes	发行说明(&N)
+Report a bug or an issue...	报告缺陷或问题(&R)...
+Reset Font Size	重置字体
+Run to &cursor	运行到光标(&C)
+Run to &cursor (backwards)	运行到光标(反向)(&C)
+Run until return	运行到返回
+S&tructs	结构体(&T)
+Se&lect union member...	选择联合体成员(&L)...
+Search highlight down	向下高亮搜索
+Search highlight up	向上高亮搜索
+Select &all	全选(&A)
+Select &identifier	选择标识符(&I)
+Set defa&ult segment register value...	设置默认段寄存器值(&U)...
+Set operand t&ype...	设置操作数类型(&Y)...
+St&rings	字符串(&R)
+Stac&k variable	栈变量(&K)
+Step &into	单步进入(&I)
+Step &into (backwards)	单步进入(反向)(&I)
+Step o&ver	单步跳过(&V)
+Step o&ver (backwards)	单步跳过(反向)(&V)
+Struct &var...	结构体变量(&V)...
+Switch to &source	切换到源码(&S)
+Take &memory snapshot	取得内存快照(&M)
+Teams	Teams
+Teams Options	Teams 选项
+Toggle &border	切换边框(&B)
+Tracin&g	跟踪(&G)
+Undo history	撤销历史
+Unhid&e all	全部取消隐藏(&E)
+Xrefs graph from	交叉引用图(来向)
+Xrefs graph to	交叉引用图(去向)
+# ===== 窗口标题 =====
+About	关于
+Analysis	分析
+Breakpoints	断点
+Comments	注释
+Cross references	交叉引用
+Debug	调试
+Debugger commands	调试器命令
+Dialog	对话框
+Diff	差异
+Functions	函数
+Graph view	图形视图
+Hide/Unhide	隐藏/取消隐藏
+IDA - The interactive disassembler	IDA - 交互式反汇编器
+IDA: Quick start	IDA: 快速启动
+Jump	跳转
+Lists	列表
+Local Types	本地类型
+Merge	合并
+Navigation Band	导航带
+Navigator	导航器
+Operand type	操作数类型
+Search	搜索
+Segments	段
+Signatures/Types	签名/类型
+Tracing	跟踪
+Types	类型
+Utilities	实用工具
+Views	视图
+Watches	监视
+# ===== 按钮 =====
+&Display at startup	启动时显示(&D)
+&Go	开始(&G)
+&New	新建(&N)
+&Previous	上次(&P)
+Add type	添加类型
+Apply all differences in this step (keep local)	应用此步骤全部差异(保留本地)
+Apply all differences in this step (pick remote)	应用此步骤全部差异(采用远程)
+Bitwise negate	按位取反
+Center chunk	居中区块
+Change sign	改变符号
+Continue backwards	反向继续
+Create or edit a function	创建或编辑函数
+Cross references tree	交叉引用树
+Debugger window	调试器窗口
+Delete hidden range	删除隐藏范围
+Delete type	删除类型
+Delete watch	删除监视
+Edit type	编辑类型
+Enum member	枚举成员
+Fit window	适应窗口
+Function tracing	函数跟踪
+Immediate value	立即数
+Instruction tracing	指令跟踪
+Jump to next position	跳到下一位置
+Jump to previous position	跳到上一位置
+Keep local change	保留本地更改
+Layout graph	布局图形
+Lock highlight	锁定高亮
+Module list	模块列表
+Names	名称
+Next chunk	下一区块
+Next conflict	下一冲突
+Next conflict	下一冲突
+Next search result	下一个搜索结果
+Offset (data segment)	偏移(数据段)
+Open	打开
+Pathfinder	寻径器
+Pause process	暂停进程
+Pick remote change	选取远程更改
+Previous chunk	上一区块
+Previous conflict	上一冲突
+Print graph	打印图形
+Problems	问题
+Proceed to the next step	进行下一步
+Rename	重命名
+Run to cursor	运行到光标
+Run to cursor (backwards)	运行到光标(反向)
+Run until return	运行到返回
+Save	保存
+Script command	脚本命令
+Script file	脚本文件
+Search direction	搜索方向
+Search next	搜索下一个
+Segment registers	段寄存器
+Selectors	选择子
+Sequence of bytes	字节序列
+Set type	设置类型
+Setup colors	颜色设置
+Setup options	选项设置
+Signatures	签名
+Stack trace	栈回溯
+Stack variable	栈变量
+Stack variables	栈变量
+Start process	启动进程
+Step into	单步进入
+Step into (backwards)	单步进入(反向)
+Step over	单步跳过
+Step over (backwards)	单步跳过(反向)
+Text	文本
+Text view	文本视图
+Thread list	线程列表
+Toggle 'Common' panel	切换 Common 面板
+Toggle 'Details'	切换 Details
+Tracing window	跟踪窗口
+Type libraries	类型库
+Unhide	取消隐藏
+Use source-level debugging	使用源码级调试
+Watch list	监视列表
+Zoom 100%	缩放 100%
+Zoom in	放大
+Zoom out	缩小
+# ===== Quick Start / 标签 =====
+New	新建
+Go	开始
+Previous	上次
+Disassemble a new file	反汇编新文件
+Work on your own	自行开始
+Load the old disassembly	加载旧的反汇编
+IDA - The Interactive Disassembler	IDA - 交互式反汇编器
+Thank you for using our demo version!	感谢使用我们的演示版本!
+For information about purchases please visit:	购买信息请访问:
+License:	许可证:
+Experimental version	实验版本
+Data	数据
+Additional display:	附加显示:
+Drag this title to dock somewhere else	拖动此标题可停靠到别处

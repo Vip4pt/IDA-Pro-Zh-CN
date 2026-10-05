@@ -1,0 +1,35 @@
+About
+Analysis
+Breakpoints
+Comments
+Cross references
+Debug
+Debugger commands
+Dialog
+Diff
+Edit
+File
+Functions
+Graph overview
+Graph view
+Hide/Unhide
+IDA - The interactive disassembler
+IDA v9.5.261001.a12ef234
+IDA: Quick start
+Jump
+Lists
+Local Types
+Merge
+Navigation Band
+Navigator
+Operand type
+Output
+Please wait...
+Search
+Segments
+Signatures/Types
+Tracing
+Types
+Utilities
+Views
+Watches

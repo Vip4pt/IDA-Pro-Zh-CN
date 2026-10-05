@@ -1,0 +1,1084 @@
+# IDA_zh_CN 词典 (UTF-8, TAB 分隔: 原文<TAB>译文; '#' 开头为注释)
+# —— 菜单栏 (助记符位置以 IDA 实际绘制为准, 来源: captured.tsv) ——
+&File	文件(&F)
+&Edit	编辑(&E)
+&Jump	跳转(&J)
+&View	视图(&V)
+&Options	选项(&O)
+Deb&ugger	调试器(&U)
+Searc&h	搜索(&H)
+&Windows	窗口(&W)
+&Window	窗口(&W)
+Exte&nsions	扩展(&N)
+Help	帮助
+&Help	帮助(&H)
+# —— 窗格/窗口标题 ——
+Output	输出
+Functions	函数
+Imports	导入
+Exports	导出
+Graph overview	图形概览
+Local Types	本地类型
+Local Types: Tree	本地类型: 树
+Local Types: Types Layout	本地类型: 类型布局
+# —— 状态栏/提示 ——
+AU:  idle	自动分析: 空闲
+No debugger	无调试器
+Please wait...	请稍候...
+Choose processor	选择处理器
+(Synchronized with Hex View-1)	(与十六进制视图-1 同步)
+# —— 函数/条目类型 ——
+Segment	段
+Instruction	指令
+Library function	库函数
+Regular function	常规函数
+Lumina function	Lumina 函数
+External symbol	外部符号
+Function name	函数名
+Unexplored	未探索
+File	文件
+Edit	编辑
+# —— 通用按钮 ——
+OK	确定
+&OK	确定(&O)
+Cancel	取消
+&Cancel	取消(&C)
+Yes	是
+&Yes	是(&Y)
+No	否
+&No	否(&N)
+Apply	应用
+&Apply	应用(&A)
+Close	关闭
+&Close	关闭(&C)
+Abort	终止
+Retry	重试
+Ignore	忽略
+# ===== 第二批: 完整菜单树 =====
+&Add breakpoint	添加断点(&A)
+&Add watch	添加监视(&A)
+&Assemble...	汇编(&A)...
+&Assist	Assist(&A)
+&Attach	附加(&A)
+&Attach to process...	附加到进程(&A)...
+&Begin selection	开始选区(&B)
+&Binary	二进制(&B)
+&Breakpoint list	断点列表(&B)
+&Breakpoints	断点(&B)
+&Calculator...	计算器(&C)...
+&Code	代码(&C)
+&Color instruction...	指令着色(&C)...
+&Commit	提交(&C)
+&Commits	提交(&C)
+&Connect	连接(&C)
+&Create Repository	创建仓库(&C)
+&Create segment...	创建段(&C)...
+&Debugger windows	调试器窗口(&D)
+&Decimal	十进制(&D)
+&Delete breakpoint	删除断点(&D)
+&Delete segment...	删除段(&D)...
+&Disassembly	反汇编(&D)
+&Disconnect	断开连接(&D)
+&Dyld Shared Cache (DSC) index	Dyld 共享缓存 (DSC) 索引(&D)
+&Edit	编辑(&E)
+&Edit segment...	编辑段(&E)...
+&Error operand	错误操作数(&E)
+&Floating point	浮点数(&F)
+&Force zero offset field	强制零偏移字段(&F)
+&Graphs	图形(&G)
+&Hex dump	十六进制转储(&H)
+&Hexadecimal	十六进制(&H)
+&History	历史(&H)
+&KernelCache (KC) index	内核缓存 (KC) 索引(&K)
+&License manager...	许可证管理器(&L)...
+&Local Changes	本地更改(&L)
+&Local files	本地文件(&L)
+&Manage Repositories	管理仓库(&M)
+&Manual instruction...	手工指令(&M)...
+&Migrate to Git Repository	迁移到 Git 仓库(&M)
+&Move current segment...	移动当前段(&M)...
+&Number	数字(&N)
+&Number (default)	数字(默认)(&N)
+&Offset	偏移(&O)
+&Open subviews	打开子视图(&O)
+&Operand type	操作数类型(&O)
+&Patch program	给程序打补丁(&P)
+&Push	推送(&P)
+&Quick debug view	快速调试视图(&Q)
+&Quick view	快速视图(&Q)
+&Rebase program...	重设程序基址(&R)...
+&Reconfigure Repository	重新配置仓库(&R)
+&Refresh memory	刷新内存(&R)
+&Repository Settings	仓库设置(&R)
+&Revert Local Changes	还原本地更改(&R)
+&Run	运行(&R)
+&Segment	段(&S)
+&Setup hidden items...	设置隐藏项(&S)...
+&Sites	站点(&S)
+&Start process	启动进程(&S)
+&Terminate process	终止进程(&T)
+&Toolbars	工具栏(&T)
+&Undefine	取消定义(&U)
+&Users	用户(&U)
+&Vault files	Vault 文件(&V)
+&Watch list	监视列表(&W)
+&Watches	监视(&W)
+&Worklists	工作列表(&W)
+A&PI Documentation	API 文档(&P)
+A&pply patches to input file...	把补丁应用到输入文件(&P)...
+About program...	关于程序(&A)...
+Address details	地址详情
+All error operands	所有错误操作数
+All void operands	所有空操作数
+Arra&y...	数组(&Y)...
+Bit&wise negate	按位取反(&W)
+Bookmar&ks	书签(&K)
+C&lone Repository	克隆仓库(&L)
+Cha&racter	字符(&R)
+Change &byte...	修改字节(&B)...
+Change &word...	修改字(&W)...
+Change se&gment register value...	修改段寄存器值(&G)...
+Change segment &translation...	修改段转换(&T)...
+Check for free update...	检查免费更新(&C)...
+Co&mments	注释(&M)
+Copy field info to &pointers	复制字段信息到指针(&P)
+Create &alignment directive...	创建对齐指令(&A)...
+Create struct from &selection	从选区创建结构体(&S)
+Database snapshot &manager...	数据库快照管理器(&M)...
+Deb&ugger options...	调试器选项(&U)...
+Decrease Font Size	缩小字体
+Detac&h from process	从进程分离(&H)
+Enter &anterior lines...	输入前导行(&A)...
+Enter &posterior lines...	输入后级行(&P)...
+Enter &repeatable comment...	输入可重复注释(&R)...
+Find register definition	查找寄存器定义
+Find register use	查找寄存器使用
+Focus command line	聚焦命令行
+Full screen	全屏
+Function calls	函数调用
+Get IDA MCP...	获取 IDA MCP...
+Get Teams...	获取 Teams...
+Graph O&verview	图形概览(&V)
+H&ide all	全部隐藏(&I)
+How to buy IDA	如何购买 IDA
+IDA &MCP	IDA MCP(&M)
+IDA &support forum	IDA 支持论坛(&S)
+IDA home page	IDA 主页
+Increase Font Size	增大字体
+Learn about IDA MCP...	了解 IDA MCP...
+Learn about Teams...	了解 Teams...
+Local &types	本地类型(&T)
+Lumi&na	Lumina(&N)
+Mal&ware Analysis	恶意软件分析(&W)
+Man&ual...	手动(&U)...
+Manage...	管理(&M)...
+Misc. tools	杂项工具
+Navigation history	导航历史
+Next &code	下一个代码(&C)
+Next &data	下一个数据(&D)
+Next &explored	下一个已探索(&E)
+Next &unexplored	下一个未探索(&U)
+Next &void	下一个空项(&V)
+Next immediate va&lue	下一个立即数(&L)
+Next sequence of &bytes	下一个字节序列(&B)
+Next te&xt	下一个文本(&X)
+Not &function	非函数(&F)
+Note&pad	记事本(&P)
+Octa&l	八进制(&L)
+Online help	在线帮助
+Open source &file...	打开源文件(&F)...
+Ot&her	其他(&H)
+P&ull	拉取(&U)
+Patched bytes	补丁字节
+Plu&gins	插件(&G)
+Print internal &flags	打印内部标志(&F)
+Print register value	打印寄存器值
+Print se&gment registers	打印段寄存器(&G)
+Pro&ximity browser	邻近浏览器(&X)
+Process &options...	进程选项(&O)...
+R&ecent scripts	最近脚本(&E)
+Release &notes	发行说明(&N)
+Report a bug or an issue...	报告缺陷或问题(&R)...
+Reset Font Size	重置字体
+Run to &cursor	运行到光标(&C)
+Run to &cursor (backwards)	运行到光标(反向)(&C)
+Run until return	运行到返回
+S&tructs	结构体(&T)
+Se&lect union member...	选择联合体成员(&L)...
+Search highlight down	向下高亮搜索
+Search highlight up	向上高亮搜索
+Select &all	全选(&A)
+Select &identifier	选择标识符(&I)
+Set defa&ult segment register value...	设置默认段寄存器值(&U)...
+Set operand t&ype...	设置操作数类型(&Y)...
+St&rings	字符串(&R)
+Stac&k variable	栈变量(&K)
+Step &into	单步进入(&I)
+Step &into (backwards)	单步进入(反向)(&I)
+Step o&ver	单步跳过(&V)
+Step o&ver (backwards)	单步跳过(反向)(&V)
+Struct &var...	结构体变量(&V)...
+Switch to &source	切换到源码(&S)
+Take &memory snapshot	取得内存快照(&M)
+Teams	Teams
+Teams Options	Teams 选项
+Toggle &border	切换边框(&B)
+Tracin&g	跟踪(&G)
+Undo history	撤销历史
+Unhid&e all	全部取消隐藏(&E)
+Xrefs graph from	交叉引用图(来向)
+Xrefs graph to	交叉引用图(去向)
+# ===== 窗口标题 =====
+About	关于
+Analysis	分析
+Breakpoints	断点
+Comments	注释
+Cross references	交叉引用
+Debug	调试
+Debugger commands	调试器命令
+Dialog	对话框
+Diff	差异
+Functions	函数
+Graph view	图形视图
+Hide/Unhide	隐藏/取消隐藏
+IDA - The interactive disassembler	IDA - 交互式反汇编器
+IDA: Quick start	IDA: 快速启动
+Jump	跳转
+Lists	列表
+Local Types	本地类型
+Merge	合并
+Navigation Band	导航带
+Navigator	导航器
+Operand type	操作数类型
+Search	搜索
+Segments	段
+Signatures/Types	签名/类型
+Tracing	跟踪
+Types	类型
+Utilities	实用工具
+Views	视图
+Watches	监视
+# ===== 按钮 =====
+&Display at startup	启动时显示(&D)
+&Go	开始(&G)
+&New	新建(&N)
+&Previous	上次(&P)
+Add type	添加类型
+Apply all differences in this step (keep local)	应用此步骤全部差异(保留本地)
+Apply all differences in this step (pick remote)	应用此步骤全部差异(采用远程)
+Bitwise negate	按位取反
+Center chunk	居中区块
+Change sign	改变符号
+Continue backwards	反向继续
+Create or edit a function	创建或编辑函数
+Cross references tree	交叉引用树
+Debugger window	调试器窗口
+Delete hidden range	删除隐藏范围
+Delete type	删除类型
+Delete watch	删除监视
+Edit type	编辑类型
+Enum member	枚举成员
+Fit window	适应窗口
+Function tracing	函数跟踪
+Immediate value	立即数
+Instruction tracing	指令跟踪
+Jump to next position	跳到下一位置
+Jump to previous position	跳到上一位置
+Keep local change	保留本地更改
+Layout graph	布局图形
+Lock highlight	锁定高亮
+Module list	模块列表
+Names	名称
+Next chunk	下一区块
+Next conflict	下一冲突
+Next conflict	下一冲突
+Next search result	下一个搜索结果
+Offset (data segment)	偏移(数据段)
+Open	打开
+Pathfinder	寻径器
+Pause process	暂停进程
+Pick remote change	选取远程更改
+Previous chunk	上一区块
+Previous conflict	上一冲突
+Print graph	打印图形
+Problems	问题
+Proceed to the next step	进行下一步
+Rename	重命名
+Run to cursor	运行到光标
+Run to cursor (backwards)	运行到光标(反向)
+Run until return	运行到返回
+Save	保存
+Script command	脚本命令
+Script file	脚本文件
+Search direction	搜索方向
+Search next	搜索下一个
+Segment registers	段寄存器
+Selectors	选择子
+Sequence of bytes	字节序列
+Set type	设置类型
+Setup colors	颜色设置
+Setup options	选项设置
+Signatures	签名
+Stack trace	栈回溯
+Stack variable	栈变量
+Stack variables	栈变量
+Start process	启动进程
+Step into	单步进入
+Step into (backwards)	单步进入(反向)
+Step over	单步跳过
+Step over (backwards)	单步跳过(反向)
+Text	文本
+Text view	文本视图
+Thread list	线程列表
+Toggle 'Common' panel	切换 Common 面板
+Toggle 'Details'	切换 Details
+Tracing window	跟踪窗口
+Type libraries	类型库
+Unhide	取消隐藏
+Use source-level debugging	使用源码级调试
+Watch list	监视列表
+Zoom 100%	缩放 100%
+Zoom in	放大
+Zoom out	缩小
+# ===== Quick Start / 标签 =====
+New	新建
+Go	开始
+Previous	上次
+Disassemble a new file	反汇编新文件
+Work on your own	自行开始
+Load the old disassembly	加载旧的反汇编
+IDA - The Interactive Disassembler	IDA - 交互式反汇编器
+Thank you for using our demo version!	感谢使用我们的演示版本!
+For information about purchases please visit:	购买信息请访问:
+License:	许可证:
+Experimental version	实验版本
+Data	数据
+Additional display:	附加显示:
+Drag this title to dock somewhere else	拖动此标题可停靠到别处
+# ===== 右键/其他菜单 (1) =====
+...configure	...配置
+...fetch results via API	...通过 API 获取结果
+...import existing archive (.zip)	...导入现有归档 (.zip)
+...load existing report (.json)	...加载现有报告 (.json)
+...run sandbox	...运行沙箱
+&1-byte integer	1 字节整数(&1)
+&2-byte integer	2 字节整数(&2)
+&4-byte integer	4 字节整数(&4)
+&8-byte integer	8 字节整数(&8)
+&Abort	中止(&A)
+&Add missing fields	添加缺失字段(&A)
+&Add type...	添加类型(&A)...
+&Analysis	分析(&A)
+&Analyze module	分析模块(&A)
+&Basic block tracing	基本块跟踪(&B)
+&Break on access	访问时中断(&B)
+&C-style (0 terminated)	C 风格(0 结尾)(&C)
+&Clear trace	清除跟踪(&C)
+&Close	关闭(&C)
+&Colors...	颜色(&C)...
+&Copy	复制(&C)
+&Create function...	创建函数(&C)...
+&Create or edit a function...	创建或编辑函数(&C)...
+&DBG file...	DBG 文件(&D)...
+&DOS style ($ terminated)	DOS 风格($ 结尾)(&D)
+&Data	数据(&D)
+&Debugger window	调试器窗口(&D)
+&Delete desktop...	删除桌面布局(&D)...
+&Delete function	删除函数(&D)
+&Delete type...	删除类型(&D)...
+&Delete watch	删除监视(&D)
+&Delphi (4 byte length)	Delphi(4 字节长度)(&D)
+&Deselect all	取消全选(&D)
+&Details...	详情(&D)...
+&Double float (64-bit)	双精度浮点 (64 位)(&D)
+&Edit function...	编辑函数(&E)...
+&Execute	执行(&E)
+&Exports	导出(&E)
+&External help	外部帮助(&E)
+&FLIRT signature file...	FLIRT 签名文件(&F)...
+&Field type	字段类型(&F)
+&Find	查找(&F)
+&Find breakpoint in list	在列表中查找断点(&F)
+&Find...	查找(&F)...
+&Font...	字体(&F)...
+&Function tracing	函数跟踪(&F)
+&Functions	函数(&F)
+&General...	常规(&G)...
+&Hide	隐藏(&H)
+&Immediate value...	立即数(&I)...
+&Imports	导入(&I)
+&Instruction tracing	指令跟踪(&I)
+&Jump to module base	跳到模块基址(&J)
+&Jump to operand	跳到操作数(&J)
+&Learn About Teams	了解 Teams(&L)
+&Load desktop...	加载桌面布局(&L)...
+&Load file	加载文件(&L)
+&Locals	局部变量(&L)
+&Long double (80-bit)	扩展精度浮点 (80 位)(&L)
+&Memory	内存(&M)
+&Module list	模块列表(&M)
+&Name representation...	名称表示(&N)...
+&Names	名称(&N)
+&New instance	新建实例(&N)
+&Next CLI	下一个 CLI(&N)
+&Open...	打开(&O)...
+&Output window	输出窗口(&O)
+&PDB file...	PDB 文件(&P)...
+&Pascal style (1 byte length)	Pascal 风格(1 字节长度)(&P)
+&Pause process	暂停进程(&P)
+&Previous CLI	上一个 CLI(&P)
+&Produce file	生成文件(&P)
+&Quick run plugins	快速运行插件(&Q)
+&Quick start	快速启动(&Q)
+&Refresh	刷新(&R)
+&Reload the input file	重新加载输入文件(&R)
+&Rename register...	重命名寄存器(&R)...
+&Reset desktop	重置桌面布局(&R)
+&Resume thread	恢复线程(&R)
+&Save	保存(&S)
+&Save desktop...	保存桌面布局(&S)...
+&Secondary server	辅助服务器(&S)
+&Segments	段(&S)
+&Select all	全选(&S)
+&Sequence of bytes...	字节序列(&S)...
+&Set function end	设置函数结尾(&S)
+&Shortcuts...	快捷键(&S)...
+&Signed	有符号(&S)
+&Stack trace	栈回溯(&S)
+&Stack view	栈视图(&S)
+&String	字符串(&S)
+&Suspend thread	挂起线程(&S)
+&TDS file...	TDS 文件(&T)...
+&Text...	文本(&T)...
+&Thread list	线程列表(&T)
+&Toggle leading zeroes	切换前导零(&T)
+&Unhide	取消隐藏(&U)
+&Unicode	Unicode(&U)
+&Unsigned	无符号(&U)
+&Watch view	监视视图(&W)
+&Wide pascal (2 byte length)	宽 Pascal(2 字节长度)(&W)
+...     (unassigned)	...(未分配)
+Add &read/write trace	添加读/写跟踪(&R)
+Add &write trace	添加写跟踪(&W)
+Add Filter	添加过滤器
+Add argument	添加参数
+Add breakpoint	添加断点
+Add e&xecution trace	添加执行跟踪(&X)
+Add encoding...	添加编码(&A)...
+Add exclusion...	添加排除(&A)...
+Add global memory note	添加全局内存备注
+Add local memory note	添加局部内存备注
+Add local memory note for selection	为选区添加局部内存备注
+Add node by address	按地址添加节点
+Add node by name	按名称添加节点
+Add to latest path	添加到最新路径
+Add to vault	添加到 Vault
+Add waypoint...	添加路径点(&A)...
+Add xrefs from node	添加节点的来向交叉引用
+Add xrefs to node	添加节点的去向交叉引用
+Add xrefs to/from node	添加节点去向/来向交叉引用
+Add xrefs...	添加交叉引用(&A)...
+Additional &binary file...	附加二进制文件(&B)...
+Additional display visible	显示附加显示
+Address	地址
+Addresses with dereferencing	带解引用的地址
+Addresses with names	带名称的地址
+Addresses with text	带文本的地址
+Align	对齐
+Always	总是
+Analysis indicator	分析指示器
+Append function &tail...	追加函数尾部(&T)...
+Apply all differences until this step (pick local)	应用截至此步骤的全部差异(采用本地)
+Apply all differences until this step (pick remote)	应用截至此步骤的全部差异(采用远程)
+Apply all non-conflicting differences in this step	应用此步骤全部无冲突差异
+Apply selection	应用选区
+As &HTML	为 HTML(&H)
+As &deeplink	为深链接(&D)
+As &text	为文本(&T)
+Assembler d&irectives...	汇编指令(&I)...
+Auto	自动
+Auto resolve (if no conflicts)...	自动解决(无冲突时)(&A)...
+Auto resolve, prefer local...	自动解决,优先本地(&A)...
+Auto resolve, prefer remote...	自动解决,优先远程(&A)...
+Auto-scroll	自动滚动
+Back complete	向后补全
+Back to previous view	返回上一视图
+C&lear	清除(&L)
+C&lear mark...	清除标记(&L)...
+C&ontinue backwards	反向继续(&O)
+C++ SDK	C++ SDK
+C-like format	C 风格格式
+Cancel changes	取消更改
+Center in window...	在窗口中居中(&C)...
+Change calling convention...	修改调用约定(&C)...
+Change si&gn	改变符号(&G)
+Change stack &pointer...	修改栈指针(&P)...
+Change tab size...	修改制表符宽度(&T)...
+Change trace description	修改跟踪描述
+Checkout for copy...	检出以便复制(&C)...
+Checkout for delete	检出以便删除
+Checkout for edit	检出以便编辑
+Checkout for move/rename...	检出以便移动/重命名(&C)...
+Circle layout	环形布局
+Clear	清除
+Clear Search	清除搜索
+Clear overlay	清除覆盖层
+Clear...	清除(&C)...
+Clone	克隆
+Close window	关闭窗口
+Collapse children	折叠子项
+Collapse parents	折叠父项
+Collapse selected folders	折叠所选文件夹
+Columns...	列(&C)...
+Commit...	提交(&C)...
+Comp&lete	补全(&L)
+Compi&ler...	编译器(&L)...
+Configure emulator...	配置模拟器(&C)...
+Configure...	配置(&C)...
+Convert IDB...	转换 IDB(&C)...
+Copy address to command line	复制地址到命令行
+Copy all	复制全部
+Copy cell	复制单元格
+Copy content	复制内容
+Copy line	复制行
+Copy location	复制位置
+Copy row	复制行
+Copy size to command line	复制大小到命令行
+Copy to CLI	复制到 CLI
+Copy value	复制值
+Copy with dependencies	连带依赖复制
+Cr&oss references	交叉引用(&O)
+Create &ASM file...	生成 ASM 文件(&A)...
+Create &C header file...	生成 C 头文件(&C)...
+Create &DIF file...	生成 DIF 文件(&D)...
+Create &EXE file...	生成 EXE 文件(&E)...
+Create &INC file...	生成 INC 文件(&I)...
+Create &LST file...	生成 LST 文件(&L)...
+Create &MAP file...	生成 MAP 文件(&M)...
+Create &flow chart GDL...	生成流程图 GDL(&F)...
+Create call &graph GDL...	生成调用图 GDL(&G)...
+Create folder...	创建文件夹(&C)...
+Create new path	创建新路径
+Cut	剪切
+CyberChef	CyberChef
+Cycle layout mode	循环切换布局模式
+D&ump database to IDC file...	把数据库导出为 IDC 文件(&U)...
+De&lete type member	删除类型成员(&L)
+De&mangled names...	还原修饰名(&M)...
+Decrement value	递减值
+Delete function metadata	删除函数元数据
+Delete selected nodes	删除所选节点
+Diff against previous revision	与上一修订比较
+Diff against the local file	与本地文件比较
+Diff against...	与...比较(&D)...
+Digraph layout	有向图布局
+Disable breakpoint	禁用断点
+Disable undo	禁用撤销
+Domain API	Domain API
+Dump &typeinfo to IDC file...	把类型信息导出为 IDC 文件(&T)...
+Dump history	导出历史
+Duplicate	重复
+Duplicate stru&ct type	复制结构体类型(&C)
+E&xit	退出(&E)
+E&xport data	导出数据(&X)
+Ed&it enum member...	编辑枚举成员(&I)...
+Edit &type...	编辑类型(&T)...
+Edit breakpoint...	编辑断点(&E)...
+Edit exceptions	编辑异常
+Edit location...	编辑位置(&E)...
+Edit worklist...	编辑工作列表(&E)...
+Edit...	编辑(&E)...
+Empt&y navigation stack	清空导航栈(&Y)
+Enable breakpoint	启用断点
+Enter &comment...	输入注释(&C)...
+Enu&m member...	枚举成员(&M)...
+Exclude from path	从路径排除
+Expand children	展开子项
+Expand current node	展开当前节点
+Expand node	展开节点
+Expand parents	展开父项
+Expand selected folders	展开所选文件夹
+Export headless...	无界面导出(&E)...
+Export to &HTML...	导出为 HTML(&H)...
+Export to file...	导出到文件(&E)...
+Export to header file	导出到头文件
+Export trace to text file	把跟踪导出为文本文件
+Feature Flags...	特性开关(&F)...
+File history	文件历史
+Find &next	查找下一个(&N)
+Find in vault...	在 Vault 中查找(&F)...
+Find path	查找路径
+Fit whole program	缩放至整个程序
+Focus other widget	聚焦其他窗口部件
+Follow in disassembly	在反汇编中跟随
+Follow in hex dump	在十六进制转储中跟随
+Format options...	格式选项(&F)...
+From external Mach-O...	从外部 Mach-O(&F)...
+Fuzzy matching	模糊匹配
+Get Assist...	获取 Assist(&G)...
+Get Malware Analysis...	获取 Malware Analysis(&G)...
+Get Private Lumina...	获取私有 Lumina(&G)...
+Get revision...	获取修订(&G)...
+Get the latest revision	获取最新修订
+Group nodes	组合节点
+Hex display	十六进制显示
+Hide all	全部隐藏
+Hide all groups	隐藏所有分组
+Hide column	隐藏列
+Hide function	隐藏函数
+Hide group	隐藏分组
+Hide node	隐藏节点
+ID&S/IDT file...	IDS/IDT 文件(&S)...
+# ===== 右键/其他菜单 (2) =====
+IDA Assist	IDA Assist
+IDC SDK	IDC SDK
+Import &as snippet	作为片段导入(&A)
+Import from file...	从文件导入(&I)...
+Increment value	递增值
+Insert &gap...	插入空隙(&G)...
+Insert...	插入(&I)...
+Interactive merge	交互式合并
+Invert selection	反选
+Isolated system emulator	隔离系统模拟器
+Jump anywhere...	跳到任意位置(&J)...
+Jump by &name...	按名称跳转(&N)...
+Jump in a ne&w window	在新窗口中跳转(&W)
+Jump in a new hex window	在新的十六进制窗口中跳转
+Jump to	跳转到
+Jump to &address...	跳到地址(&A)...
+Jump to &entry point...	跳到入口点(&E)...
+Jump to &function...	跳到函数(&F)...
+Jump to &link...	跳到链接(&L)...
+Jump to &marked position...	跳到标记位置(&M)...
+Jump to &problem...	跳到问题(&P)...
+Jump to &segment...	跳到段(&S)...
+Jump to &xref to operand...	跳到操作数的交叉引用(&X)...
+Jump to IP	跳到 IP
+Jump to a neighboring node (down)	跳到相邻节点(下方)
+Jump to a neighboring node (up)	跳到相邻节点(上方)
+Jump to end of line/window bottom/end	跳到行尾/窗口底部/末尾
+Jump to file &offset...	跳到文件偏移(&O)...
+Jump to listing end	跳到清单末尾
+Jump to listing start	跳到清单开头
+Jump to nex&t position	跳到下一位置(&T)
+Jump to next function	跳到下一函数
+Jump to p&revious position	跳到上一位置(&R)
+Jump to prev function	跳到上一函数
+Jump to se&gment register...	跳到段寄存器(&G)...
+Jump to start of line/window top/start	跳到行首/窗口顶部/开头
+Jump to the bottom of the window	跳到窗口底部
+Jump to the top of the window	跳到窗口顶部
+Jump to...	跳转到(&J)...
+Layout graph	布局图形
+Learn about Assist...	了解 Assist(&L)...
+Learn about Malware Analysis...	了解 Malware Analysis(&L)...
+Learn about Private Lumina...	了解私有 Lumina(&L)...
+Legend visible	显示图例
+List &cross references from...	列出来向交叉引用(&C)...
+List &cross references to...	列出去向交叉引用(&C)...
+Load debug &symbols	加载调试符号(&S)
+Load overlay	加载覆盖层
+Load trace	加载跟踪
+Map to another type...	映射到其他类型(&M)...
+Map to other widget...	映射到其他窗口部件(&M)...
+Mar&k position...	标记位置(&K)...
+Match case	区分大小写
+Metadata History	元数据历史
+Migrate to another worklist...	迁移到其他工作列表(&M)...
+Minimap	缩略图
+Modify filters...	修改过滤器(&M)...
+Modify value...	修改值(&M)...
+Move one character left	左移一个字符
+Move one character right	右移一个字符
+Move one line down	下移一行
+Move one line up	上移一行
+Move one page down	下移一页
+Move one page up	上移一页
+Move one word left	左移一个词
+Move one word right	右移一个词
+Move previous char, in current column	在当前列内前移一个字符
+Move segment(s)	移动段
+Move to beginning of current column	移到当前列开头
+Move to beginning of line	移到行首
+Move to beginning of text	移到文本开头
+Move to end of line	移到行尾
+Move to end of text	移到文本末尾
+Move to folder...	移动到文件夹(&M)...
+New...	新建(&N)...
+Next Match	下一个匹配
+Next search result	下一个搜索结果
+Next window	下一窗口
+Now	现在
+Offset (&current segment)	偏移(当前段)(&C)
+Offset (&data segment)	偏移(数据段)(&D)
+Offset (&user-defined)...	偏移(用户自定义)(&U)...
+Offset (struc&t)...	偏移(结构体)(&T)...
+Offset by (&any segment)...	按任意段偏移(&A)...
+Open IDA Feeds	打开 IDA Feeds
+Open Search	打开搜索
+Open register window	打开寄存器窗口
+Open the containing folder	打开所在文件夹
+Open this revision	打开此修订
+Open xref tree (first → last)	打开交叉引用树(首 → 尾)
+Open xref tree (last ← first)	打开交叉引用树(尾 ← 首)
+Options	选项
+Orthogonal layout	正交布局
+Pan the screen down one line	屏幕下移一行
+Pan the screen up one line	屏幕上移一行
+Parse &C header file...	解析 C 头文件(&C)...
+Paste	粘贴
+Pull &Repository	拉取仓库(&R)
+Pull all	全部拉取
+Pull function	拉取函数
+Pull repository	拉取仓库
+Push all	全部推送
+Push function	推送函数
+Push repository	推送仓库
+Python SDK	Python SDK
+Quick &filter	快速过滤器(&F)
+Radial tree layout	放射树布局
+Re&move function tail...	移除函数尾部(&M)...
+Re&name	重命名(&N)
+Re-open trace viewer	重新打开跟踪查看器
+Reanalyze program	重新分析程序
+Rebuild...	重建(&R)...
+Redo	重做
+Refresh	刷新
+Region by address	按地址的区域
+Regular expression	正则表达式
+Reload exceptions	重新加载异常
+Remove Last Filter	移除上一个过滤器
+Remove from history	从历史移除
+Remove ga&p...	移除空隙(&P)...
+Repeat last palette command	重复上一条命令面板命令
+Reset filters	重置过滤器
+Reset graph	重置图形
+Reset h&idden messages...	重置隐藏消息(&I)...
+Reset natural order	重置自然顺序
+Reset undo history	重置撤销历史
+Restore selection	恢复选区
+Revert function	还原函数
+Revert if unchanged	未更改则还原
+Revert to defaults	恢复默认
+Revert...	还原(&R)...
+Run current...	运行当前(&R)...
+S&tring literals...	字符串字面量(&T)...
+Sa&ve as...	另存为(&V)...
+Sandbox	沙箱
+Save &to file...	保存到文件(&T)...
+Save to file...	保存到文件(&S)...
+Save trace	保存跟踪
+Scan vault	扫描 Vault
+Script &file...	脚本文件(&F)...
+Script co&mmand...	脚本命令(&M)...
+Se&lectors	选择子(&L)
+Search Again	再次搜索
+Search again	再次搜索
+Search bar	搜索栏
+Search nodes	搜索节点
+Segment &registers	段寄存器(&R)
+Select All	全选
+Select nodes of this color	选择此颜色的节点
+Selected modules	所选模块
+Selection with dependencies...	连带依赖的选区(&S)...
+Set IP	设置 IP
+Set node color	设置节点颜色
+Set node color to default	节点颜色恢复默认
+Set password...	设置密码(&S)...
+Set t&ype...	设置类型(&Y)...
+Set tab size	设置制表符宽度
+Setup &data types...	设置数据类型(&D)...
+Show	显示
+Show all	全部显示
+Show annotations	显示注解
+Show arguments location	显示参数位置
+Show command palette...	显示命令面板(&C)...
+Show completions	显示补全
+Show deleted files	显示已删除文件
+Show demangled	显示还原后的名称
+Show folders	显示文件夹
+Show ignored files	显示已忽略文件
+Show in graph again	重新在图中显示
+Show other users' worklists	显示其他用户的工作列表
+Show overlay info	显示覆盖层信息
+Show selection only	仅显示选区
+Show shortest path for this segment	显示此段的最短路径
+Show timestamps	显示时间戳
+Show trace call graph	显示跟踪调用图
+Show trace info	显示跟踪信息
+Sign&atures	签名(&A)
+Single &float (32-bit)	单精度浮点 (32 位)(&F)
+Source &paths...	源码路径(&P)...
+Speakeasy (isolated system emulator)	Speakeasy(隔离系统模拟器)
+Stac&k variables...	栈变量(&K)...
+Start interactive emulation	开始交互式模拟
+Strin&gs	字符串(&G)
+Subtract overlay	减去覆盖层
+Switch d&ebugger...	切换调试器(&E)...
+Switch to window #1	切换到窗口 #1
+Switch to window #2	切换到窗口 #2
+Switch to window #3	切换到窗口 #3
+Switch to window #4	切换到窗口 #4
+Switch to window #5	切换到窗口 #5
+Switch to window #6	切换到窗口 #6
+Switch to window #7	切换到窗口 #7
+Switch to window #8	切换到窗口 #8
+Switch to window #9	切换到窗口 #9
+Symbol	符号
+Synchronized	已同步
+T&ype libraries	类型库(&Y)
+Take database snapsho&t...	取得数据库快照(&T)...
+Toggle Sync with cursor	切换光标同步
+Toggle breakpoint	切换断点
+Toggle highlight scope	切换高亮范围
+Toggle renderer	切换渲染器
+Toggle value	切换值
+Tracing &options...	跟踪选项(&O)...
+Tree layout	树形布局
+Undo	撤销
+Ungroup nodes	取消节点组合
+Unhide all groups	取消所有分组隐藏
+Unhide group	取消分组隐藏
+Unicode pascal (2 byte length)	Unicode Pascal(2 字节长度)
+Unicode wide pascal (4 byte length)	Unicode 宽 Pascal(4 字节长度)
+Unpack now...	立即脱壳(&U)...
+Unpacker	脱壳器
+Unsort	取消排序
+Use local, discard remote...	采用本地,丢弃远程(&L)...
+Use nice names for addresses	地址使用友好名称
+Use predefined color 1	使用预定义颜色 1
+Use predefined color 2	使用预定义颜色 2
+Use remote, discard local...	采用远程,丢弃本地(&U)...
+Use source-&level debugging	使用源码级调试(&L)
+Use this site...	使用此站点(&U)...
+VMRay	VMRay
+View all	查看全部
+View function	查看函数
+View type library contents	查看类型库内容
+View worklist...	查看工作列表(&V)...
+Whole words	全词匹配
+Windows &list	窗口列表(&L)
+Windows &list (prev)	窗口列表(上一)(&L)
+Windows list (next)	窗口列表(下一)
+Zero value	零值
+Delete	删除
+Hide column	隐藏列
+Hide node	隐藏节点
+Pin node(s)	固定节点
+# ===== 反编译器/调试器等补充 (来源: captured.tsv) =====
+&Batch decompile...	批量反编译(&B)...
+&Force call type	强制调用类型(&F)
+&Jump to local type...	跳到本地类型(&J)...
+&Reset decompiler information...	重置反编译器信息(&R)...
+&Toggle skippable instructions...	切换可跳过指令(&T)...
+Add &cast...	添加强制转换(&C)...
+Add &variadic argument	添加可变参数(&V)
+Add a breakpoint to the current address	在当前地址添加断点
+Add a variable to watch	添加变量到监视
+Add empty line	添加空行
+Add pseudocode comments...	添加伪代码注释(&P)...
+Apply all in this step (keep changes in 'local' for conflicts)	应用此步骤全部(冲突保留本地)
+Apply all in this step (pick changes in 'remote' for conflicts)	应用此步骤全部(冲突采用远程)
+Attempt to simplify Mixed Boolean Arithmetic-obfuscated expressions using gooMBA	使用 gooMBA 尝试化简混合布尔算术混淆表达式
+Automation of COM analysis	COM 分析自动化
+C++ exception display settings	C++ 异常显示设置
+Collapse declarations	折叠声明
+Collapse else-branch	折叠 else 分支
+Collapse item	折叠项
+Collapse then-branch	折叠 then 分支
+Search for the next item	搜索下一项
+Select union field...	选择联合体字段(&S)...
+Send &database...	发送数据库(&D)...
+Set &call type...	设置调用类型(&C)...
+Set type information for an item or current function	为条目或当前函数设置类型信息
+Set type...	设置类型(&S)...
+Setup graph colors	图形颜色设置
+Setup graph options	图形选项设置
+Show C++ wind states	显示 C++ 异常状态
+Show addresses	显示地址
+Show all call decompilations...	显示全部调用反编译(&S)...
+Show all xref decompilations...	显示全部交叉引用反编译(&S)...
+Show number origins	显示数字来源
+Show proximity browser	显示邻近浏览器
+Show unstructured C++ states	显示非结构化 C++ 状态
+Show value numbers	显示值编号
+Specify switch idiom...	指定 switch 惯用法(&S)...
+Split expression	拆分表达式
+Split memory access	拆分内存访问
+Split variable	拆分变量
+Start a new process in the debugger or continue a debugged process	在调试器中启动新进程或继续调试当前进程
+Stock comments	预置注释
+Structural analysis...	结构化分析(&S)...
+Structure offse&t	结构体偏移(&T)
+Switch from disassembly to source view	从反汇编切换到源码视图
+Switch to graph disassembly view	切换到图形反汇编视图
+Switch to text diassembly view	切换到文本反汇编视图
+Synchronization	同步
+Terminate the debugged process	终止被调试进程
+Toggle SSE intrinsics	切换 SSE 内建函数
+Toggle display casts	切换强制转换显示
+Toggle function tracing	切换函数跟踪
+Toggle hex/dec	切换十六进制/十进制
+Toggle instruction tracing	切换指令跟踪
+Uncollapse declarations	展开声明
+Uncollapse else-branch	展开 else 分支
+Uncollapse item	展开项
+Uncollapse then-branch	展开 then 分支
+Unhide the current function, segment, structure, enumeration or hidden range	取消隐藏当前函数、段、结构体、枚举或隐藏范围
+Universal PE unpacker	通用 PE 脱壳器
+Universal Unpacker Manual Reconstruct	通用脱壳器手工重建
+Unmap variable(s)...	取消变量映射(&U)...
+Unmark Swift string	取消 Swift 字符串标记
+Unmark as decompiled	取消反编译标记
+Unsplit expression	合并表达式
+Unsplit memory access	合并内存访问
+Unsplit variable	合并变量
+Version	版本
+Zoom	缩放
+detect and parse golang metadata	检测并解析 Go 元数据
+# ===== 加载文件对话框 (Load a new file) =====
+Load a new file	加载新文件
+Processor type (double-click to set)	处理器类型(双击设定)
+Real-mode segment	实模式段
+Image base	映像基址
+Kernel options	内核选项
+&Kernel options	内核选项(&K)
+Processor options	处理器选项
+&Processor options	处理器选项(&P)
+Enabled	启用
+&Enabled	启用(&E)
+Indicator enabled	显示指示器
+&Indicator enabled	显示指示器(&I)
+Loading options	加载选项
+&Loading options	加载选项(&L)
+Create segments	创建段
+&Create segments	创建段(&C)
+Load resources	加载资源
+&Load resources	加载资源(&L)
+Fill segment gaps	填充段间隙
+&Fill segment gaps	填充段间隙(&F)
+Create ELAT group	创建 ELAT 组
+&Create ELAT group	创建 ELAT 组(&C)
+Rename DLL entries	重命名 DLL 条目
+&Rename DLL entries	重命名 DLL 条目(&R)
+Load as code segment	作为代码段加载
+&Load as code segment	作为代码段加载(&L)
+Create imports segment	创建导入段
+&Create imports segment	创建导入段(&C)
+Manual load	手动加载
+&Manual load	手动加载(&M)
+Binary file	二进制文件
+Ok	确定
+Please confirm	请确认
+&Please confirm	请确认(&P)
+Processor t&ype (double-click to set)	处理器类型(双击设定)
+&Real-mode segment	实模式段(&R)
+&Image base	映像基址(&I)
+Load file &as...	按...加载文件(&A)
+# ===== 加载文件对话框(实测键名)+ 工具栏 tooltip =====
+Loading &options	加载选项(&O)
+Crea&te segments	创建段(&T)
+Load &resources	加载资源(&R)
+Fill segment &gaps	填充段间隙(&G)
+Create &FLAT group	创建 FLAT 组(&F)
+Rena&me DLL entries	重命名 DLL 条目(&M)
+Create &imports segment	创建导入段(&I)
+Man&ual load	手动加载(&U)
+Real-mode &segment	实模式段(&S)
+Image &base	映像基址(&B)
+Ker&nel options	内核选项(&N)
+In&dicator enabled	显示指示器(&D)
+Kernel analysis options	内核分析选项
+Processor specific options	处理器特定选项
+Load a new file or database	加载新文件或数据库
+Create a special group to represent flat memory	创建一个表示平坦内存的特殊组
+Create a separate imports segment with external definitions	创建带外部定义的独立导入段
+Base address for loading the file	文件加载基址
+Gives more control for some file types	对某些文件类型提供更多控制
+IDA requires segments to be created now or later - manually	IDA 要求现在或稍后手动创建段
+If turned off, IDA will not analyse the program	关闭后 IDA 将不分析程序
+Leaves to gaps between segments. Use only if IDA suggests it.	保留段间空隙。仅在 IDA 建议时使用。
+Use mnemonic import names instead of ordinals	使用助记导入名代替序号
+Center chunk on screen	在屏幕中居中区块
+Change the search direction	改变搜索方向
+Change the sign of the current operand	改变当前操作数的符号
+Continue execution backwards in a trace (with supported debuggers)	在跟踪中反向继续执行(需调试器支持)
+Convert the current operand to a character constant	将当前操作数转换为字符常量
+Convert the current operand to a number	将当前操作数转换为数字
+Convert the current operand to a segment base	将当前操作数转换为段基址
+Convert the current operand to a stack variable	将当前操作数转换为栈变量
+Convert the current operand to a symbolic constant	将当前操作数转换为符号常量
+Convert the current operand to an offset in the data segment	将当前操作数转换为数据段内偏移
+Convert to array	转换为数组
+Convert to data	转换为数据
+Convert to instruction	转换为指令
+Convert to string	转换为字符串
+Convert to undefined	转换为未定义
+Create a new function or edit its attributes	创建新函数或编辑其属性
+Create structures, unions, or enumerations	创建结构体、联合体或枚举
+Declare a structure variable	声明结构体变量
+Delete a type	删除类型
+Delete the breakpoint at the current address	删除当前地址的断点
+Delete the current hidden range, or all hidden ranges in a range	删除当前隐藏范围,或该范围内全部隐藏范围
+Display the analysis progression in the status line	在状态栏显示分析进度
+Down	下移
+Enter a regular comment	输入常规注释
+Enter lines following the generated lines	输入生成行之后的行
+Enter lines preceding the generated lines	输入生成行之前的行
+Enter the current operand manually	手工输入当前操作数
+Execute a script command	执行脚本命令
+Execute a script file	执行脚本文件
+Execute each instruction	逐条执行指令
+Execute each instruction backwards	反向逐条执行指令
+Execute instructions backwards until instruction under the cursor is reached	反向执行指令直到光标处指令
+Execute instructions backwards without entering into functions	反向执行指令但不进入函数
+Execute instructions until instruction under the cursor is reached	执行指令直到光标处指令
+Execute instructions without entering into functions	执行指令但不进入函数
+Find call paths between addresses	查找地址之间的调用路径
+General notes about the current database	当前数据库的常规备注
+Go to the next saved position	转到下一个已保存位置
+Hide the current function, segment, structure, enumeration or create a hidden range	隐藏当前函数、段、结构体、枚举,或创建隐藏范围
+Keep 'local' change	保留本地更改
+Lock/unlock the current highlight	锁定/解锁当前高亮
+Move to next conflict	转到下一个冲突
+Move to next difference	转到下一处差异
+Move to previous conflict	转到上一个冲突
+Move to previous difference	转到上一处差异
+Open breakpoints window	打开断点窗口
+Open calculator	打开计算器
+Open cross references tree	打开交叉引用树
+Open cross references window	打开交叉引用窗口
+Open debugging window	打开调试窗口
+Open disassembly view	打开反汇编视图
+Open exports window	打开导出窗口
+Open functions window	打开函数窗口
+Open hexadecimal view	打开十六进制视图
+Open imports window	打开导入窗口
+Open local type definitions window	打开本地类型定义窗口
+Open modules window	打开模块窗口
+Open names window	打开名称窗口
+Open segment registers window	打开段寄存器窗口
+Open segments window	打开段窗口
+Open selectors window	打开选择子窗口
+Open signatures window	打开签名窗口
+Open string window	打开字符串窗口
+Open the stack trace window	打开栈回溯窗口
+Open the stack variables window	打开栈变量窗口
+Open the watch list window	打开监视列表窗口
+Open threads window	打开线程窗口
+Open type editor for type	为类型打开类型编辑器
+Open types window	打开类型窗口
+Other	其他
+Pause or continue the debugged process	暂停或继续被调试进程
+Perform bitwise negation of the current operand	对当前操作数按位取反
+Pick 'remote' change	选取远程更改
+Rename the current location	重命名当前位置
+Return to the previous saved position	转到上一个已保存位置
+Run until execution returns from the current function	执行直到从当前函数返回
+S&elect debugger...	选择调试器(&E)...
+Save the database	保存数据库
+Search for immediate value	搜索立即数
+Search for sequence of bytes	搜索字节序列
+Search for text	搜索文本
+O&K	确定(&K)
+WAITING	等待中

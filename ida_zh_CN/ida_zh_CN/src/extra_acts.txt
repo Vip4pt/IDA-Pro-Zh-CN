@@ -1,0 +1,568 @@
+  ...configure
+  ...fetch results via API
+  ...import existing archive (.zip)
+  ...load existing report (.json)
+  ...run sandbox
+&1-byte integer
+&2-byte integer
+&4-byte integer
+&8-byte integer
+&Abort
+&Add missing fields
+&Add type...
+&Analysis
+&Analyze module
+&Basic block tracing
+&Break on access
+&C-style (0 terminated)
+&Clear trace
+&Close
+&Colors...
+&Copy
+&Create function...
+&Create or edit a function...
+&DBG file...
+&DOS style ($ terminated)
+&Data
+&Debugger window
+&Delete desktop...
+&Delete function
+&Delete type...
+&Delete watch
+&Delphi (4 byte length)
+&Deselect all
+&Details...
+&Double float (64-bit)
+&Edit function...
+&Execute
+&Exports
+&External help
+&FLIRT signature file...
+&Field type
+&Find
+&Find breakpoint in list
+&Find...
+&Font...
+&Function tracing
+&Functions
+&General...
+&Hide
+&Immediate value...
+&Imports
+&Instruction tracing
+&Jump to module base
+&Jump to operand
+&Learn About Teams
+&Load desktop...
+&Load file
+&Locals
+&Long double (80-bit)
+&Memory
+&Module list
+&Name representation...
+&Names
+&New instance
+&Next CLI
+&Open...
+&Output window
+&PDB file...
+&Pascal style (1 byte length)
+&Pause process
+&Previous CLI
+&Produce file
+&Quick run plugins
+&Quick start
+&Refresh
+&Reload the input file
+&Rename register...
+&Reset desktop
+&Resume thread
+&Save
+&Save desktop...
+&Secondary server
+&Segments
+&Select all
+&Sequence of bytes...
+&Set function end
+&Shortcuts...
+&Signed
+&Stack trace
+&Stack view
+&String
+&Suspend thread
+&TDS file...
+&Text...
+&Thread list
+&Toggle leading zeroes
+&Unhide
+&Unicode
+&Unsigned
+&Watch view
+&Wide pascal (2 byte length)
+...     (unassigned)
+1
+1 bytes
+1024 bytes
+16
+16 bytes
+16384 bytes
+2
+256 bytes
+32
+4
+4 bytes
+4096 bytes
+64
+64 bytes
+8
+Add &read/write trace
+Add &write trace
+Add Filter
+Add argument
+Add breakpoint
+Add e&xecution trace
+Add encoding...
+Add exclusion...
+Add global memory note
+Add local memory note
+Add local memory note for selection
+Add node by address
+Add node by name
+Add to latest path
+Add to vault
+Add waypoint...
+Add xrefs from node
+Add xrefs to node
+Add xrefs to/from node
+Add xrefs...
+Additional &binary file...
+Additional display visible
+Address
+Addresses with dereferencing
+Addresses with names
+Addresses with text
+Align
+Always
+Analysis indicator
+Append function &tail...
+Apply all differences in this step (keep local)
+Apply all differences in this step (pick remote)
+Apply all differences until this step (pick local)
+Apply all differences until this step (pick remote)
+Apply all non-conflicting differences in this step
+Apply selection
+As &HTML
+As &deeplink
+As &text
+Assembler d&irectives...
+Auto
+Auto resolve (if no conflicts)...
+Auto resolve, prefer local...
+Auto resolve, prefer remote...
+Auto-scroll
+Back complete
+Back to previous view
+Break on access
+C&lear
+C&lear mark...
+C&ontinue backwards
+C++ SDK
+C-like format
+Cancel changes
+Center chunk
+Center in window...
+Change calling convention...
+Change si&gn
+Change stack &pointer...
+Change tab size...
+Change trace description
+Checkout for copy...
+Checkout for delete
+Checkout for edit
+Checkout for move/rename...
+Circle layout
+Clear
+Clear Search
+Clear overlay
+Clear trace
+Clear...
+Clone
+Close window
+Collapse children
+Collapse parents
+Collapse selected folders
+Columns...
+Commit...
+Comp&lete
+Compi&ler...
+Configure emulator...
+Configure...
+Convert IDB...
+Copy
+Copy address to command line
+Copy all
+Copy cell
+Copy content
+Copy line
+Copy location
+Copy row
+Copy size to command line
+Copy to CLI
+Copy value
+Copy with dependencies
+Cr&oss references
+Create &ASM file...
+Create &C header file...
+Create &DIF file...
+Create &EXE file...
+Create &INC file...
+Create &LST file...
+Create &MAP file...
+Create &flow chart GDL...
+Create call &graph GDL...
+Create folder...
+Create new path
+Cross references tree
+Cut
+CyberChef
+Cycle layout mode
+D&ump database to IDC file...
+De&lete type member
+De&mangled names...
+Decrement value
+Delete
+Delete breakpoint
+Delete function metadata
+Delete hidden range
+Delete selected nodes
+Diff against previous revision
+Diff against the local file
+Diff against...
+Digraph layout
+Disable breakpoint
+Disable undo
+Domain API
+Dump &typeinfo to IDC file...
+Dump history
+Duplicate
+Duplicate stru&ct type
+E&xit
+E&xport data
+Ed&it enum member...
+Edit &type...
+Edit breakpoint...
+Edit exceptions
+Edit location...
+Edit worklist...
+Edit...
+Empt&y navigation stack
+Enable breakpoint
+Enter &comment...
+Enu&m member...
+Exclude from path
+Expand children
+Expand current node
+Expand node
+Expand parents
+Expand selected folders
+Export headless...
+Export to &HTML...
+Export to file...
+Export to header file
+Export trace to text file
+Feature Flags...
+File history
+Find &next
+Find in vault...
+Find path
+Fit whole program
+Fit window
+Focus other widget
+Follow in disassembly
+Follow in hex dump
+Format options...
+From external Mach-O...
+Fuzzy matching
+Get Assist...
+Get Malware Analysis...
+Get Private Lumina...
+Get revision...
+Get the latest revision
+Graph view
+Group nodes
+Hex display
+Hide all
+Hide all groups
+Hide column
+Hide function
+Hide group
+Hide node
+ID&S/IDT file...
+IDA Assist
+IDC SDK
+Import &as snippet
+Import from file...
+Increment value
+Insert &gap...
+Insert...
+Interactive merge
+Invert selection
+Isolated system emulator
+Jump anywhere...
+Jump by &name...
+Jump in a ne&w window
+Jump in a new hex window
+Jump to
+Jump to &address...
+Jump to &entry point...
+Jump to &function...
+Jump to &link...
+Jump to &marked position...
+Jump to &problem...
+Jump to &segment...
+Jump to &xref to operand...
+Jump to IP
+Jump to a neighboring node (down)
+Jump to a neighboring node (up)
+Jump to end of line/window bottom/end
+Jump to file &offset...
+Jump to listing end
+Jump to listing start
+Jump to nex&t position
+Jump to next function
+Jump to p&revious position
+Jump to prev function
+Jump to se&gment register...
+Jump to start of line/window top/start
+Jump to the bottom of the window
+Jump to the top of the window
+Jump to...
+Keep local change
+Layout graph
+Learn about Assist...
+Learn about Malware Analysis...
+Learn about Private Lumina...
+Legend visible
+List &cross references from...
+List &cross references to...
+Load debug &symbols
+Load overlay
+Load trace
+Lock highlight
+Map to another type...
+Map to other widget...
+Mar&k position...
+Match case
+Metadata History
+Migrate to another worklist...
+Minimap
+Modify filters...
+Modify value...
+Move one character left
+Move one character right
+Move one line down
+Move one line up
+Move one page down
+Move one page up
+Move one word left
+Move one word right
+Move previous char, in current column
+Move segment(s)
+Move to beginning of current column
+Move to beginning of line
+Move to beginning of text
+Move to end of line
+Move to end of text
+Move to folder...
+New...
+Next Match
+Next chunk
+Next conflict
+Next search result
+Next window
+Now
+Offset (&current segment)
+Offset (&data segment)
+Offset (&user-defined)...
+Offset (struc&t)...
+Offset by (&any segment)...
+Open
+Open IDA Feeds
+Open Search
+Open register window
+Open the containing folder
+Open this revision
+Open xref tree (first → last)
+Open xref tree (last ← first)
+Options
+Orthogonal layout
+Pan the screen down one line
+Pan the screen up one line
+Parse &C header file...
+Paste
+Pathfinder
+Pick remote change
+Pin node(s)
+Polar layout
+Previous Match
+Previous chunk
+Previous conflict
+Previous search result
+Previous window
+Print graph
+Pro&blems
+Proceed to the next step
+Proceed to this step
+Processor analysis options...
+Promote to waypoint
+Proximity browser
+Pull &Repository
+Pull all
+Pull function
+Pull repository
+Push all
+Push function
+Push repository
+Python SDK
+Quick &filter
+Quick filter
+Radial tree layout
+Re&move function tail...
+Re&name
+Re-open trace viewer
+Reanalyze program
+Rebuild...
+Redo
+Refresh
+Region by address
+Regular expression
+Reload exceptions
+Remove Last Filter
+Remove from history
+Remove ga&p...
+Repeat last palette command
+Reset filters
+Reset graph
+Reset h&idden messages...
+Reset natural order
+Reset undo history
+Restore selection
+Revert function
+Revert if unchanged
+Revert to defaults
+Revert...
+Run current...
+S&tring literals...
+Sa&ve as...
+Sandbox
+Save &to file...
+Save to file...
+Save trace
+Scan vault
+Script &file...
+Script co&mmand...
+Se&lectors
+Search Again
+Search again
+Search bar
+Search direction
+Search next
+Search nodes
+Search...
+Segment &registers
+Select All
+Select all
+Select nodes of this color
+Selected modules
+Selection with dependencies...
+Set IP
+Set node color
+Set node color to default
+Set password...
+Set t&ype...
+Set tab size
+Setup &data types...
+Setup colors
+Setup options
+Setup...
+Show
+Show all
+Show annotations
+Show arguments location
+Show command palette...
+Show completions
+Show deleted files
+Show demangled
+Show folders
+Show ignored files
+Show in graph again
+Show other users' worklists
+Show overlay info
+Show selection only
+Show shortest path for this segment
+Show timestamps
+Show trace call graph
+Show trace info
+Sign&atures
+Single &float (32-bit)
+Source &paths...
+Speakeasy (isolated system emulator)
+Stac&k variables...
+Start interactive emulation
+Strin&gs
+String
+Subtract overlay
+Switch d&ebugger...
+Switch to window #1
+Switch to window #2
+Switch to window #3
+Switch to window #4
+Switch to window #5
+Switch to window #6
+Switch to window #7
+Switch to window #8
+Switch to window #9
+Symbol
+Synchronized
+T&ype libraries
+Take database snapsho&t...
+Text view
+Toggle 'Common' panel
+Toggle 'Details'
+Toggle Sync with cursor
+Toggle breakpoint
+Toggle highlight scope
+Toggle renderer
+Toggle value
+Tracing &options...
+Tracing &window
+Tree layout
+Undo
+Ungroup nodes
+Unhide all groups
+Unhide group
+Unicode pascal (2 byte length)
+Unicode wide pascal (4 byte length)
+Unpack now...
+Unpacker
+Unsort
+Use local, discard remote...
+Use nice names for addresses
+Use predefined color 1
+Use predefined color 2
+Use remote, discard local...
+Use source-&level debugging
+Use this site...
+VMRay
+View all
+View function
+View type library contents
+View worklist...
+Whole words
+Windows &list
+Windows &list (prev)
+Windows list (next)
+Zero value
+Zoom 100%
+Zoom in
+Zoom out
